@@ -1,0 +1,7642 @@
+Customer_Age,Education_Level,Income_Category
+45,High School,70000
+49,Graduate,30000
+51,Graduate,100000
+40,High School,30000
+40,Uneducated,70000
+44,Graduate,50000
+32,High School,70000
+37,Uneducated,70000
+48,Graduate,100000
+42,Uneducated,130000
+56,College,100000
+35,Graduate,70000
+57,Graduate,30000
+48,Post-Graduate,100000
+61,High School,50000
+47,Doctorate,70000
+62,Graduate,30000
+41,High School,50000
+41,Graduate,30000
+59,High School,50000
+47,High School,50000
+53,Uneducated,70000
+41,Graduate,70000
+53,College,30000
+58,Graduate,100000
+55,College,30000
+55,Graduate,30000
+42,High School,30000
+57,Graduate,50000
+45,Graduate,100000
+50,College,50000
+49,High School,70000
+49,Uneducated,100000
+56,Doctorate,70000
+59,Doctorate,50000
+46,High School,100000
+52,College,100000
+54,Graduate,30000
+66,High School,30000
+56,Graduate,130000
+49,Graduate,30000
+49,Graduate,30000
+56,Uneducated,50000
+42,High School,70000
+48,Graduate,70000
+39,High School,70000
+44,Post-Graduate,130000
+53,High School,130000
+51,Uneducated,100000
+57,College,70000
+44,Uneducated,30000
+49,Graduate,70000
+50,Doctorate,100000
+51,Graduate,130000
+55,Graduate,30000
+54,Graduate,70000
+42,Uneducated,100000
+44,College,70000
+53,Graduate,100000
+44,Graduate,30000
+37,Uneducated,30000
+49,Graduate,70000
+47,Graduate,100000
+47,Graduate,70000
+53,Graduate,100000
+52,Graduate,70000
+53,High School,130000
+43,Uneducated,30000
+44,High School,70000
+51,High School,30000
+49,High School,100000
+45,Graduate,50000
+53,Graduate,100000
+64,Graduate,30000
+45,Graduate,50000
+53,Doctorate,50000
+56,College,130000
+53,Graduate,130000
+44,Graduate,30000
+44,High School,70000
+43,Post-Graduate,30000
+53,Post-Graduate,130000
+44,Uneducated,70000
+57,Graduate,70000
+42,High School,70000
+54,Uneducated,30000
+48,Graduate,100000
+49,Graduate,100000
+52,High School,100000
+50,High School,100000
+49,Doctorate,70000
+53,High School,30000
+50,Graduate,130000
+55,Doctorate,30000
+53,High School,100000
+47,High School,50000
+55,College,130000
+47,Graduate,70000
+58,Graduate,130000
+53,Graduate,100000
+52,High School,50000
+50,Uneducated,30000
+42,Graduate,30000
+57,Graduate,100000
+52,Graduate,100000
+47,Doctorate,30000
+44,Graduate,50000
+53,High School,70000
+45,College,70000
+39,Post-Graduate,30000
+48,High School,30000
+54,Graduate,100000
+59,Graduate,30000
+59,College,70000
+48,Uneducated,30000
+41,Graduate,30000
+55,Graduate,130000
+41,High School,100000
+40,High School,100000
+50,Graduate,50000
+47,Uneducated,70000
+53,College,30000
+48,High School,50000
+49,Doctorate,130000
+43,Graduate,30000
+56,High School,100000
+46,Uneducated,70000
+50,Uneducated,50000
+51,Uneducated,30000
+47,Uneducated,30000
+58,Uneducated,30000
+46,Graduate,100000
+53,High School,70000
+52,High School,30000
+50,High School,100000
+41,High School,50000
+45,Graduate,50000
+53,Uneducated,100000
+67,Graduate,30000
+57,Uneducated,50000
+59,Uneducated,50000
+45,Uneducated,50000
+51,Graduate,100000
+59,Uneducated,30000
+53,Graduate,70000
+47,Graduate,70000
+49,Post-Graduate,100000
+60,College,30000
+50,High School,30000
+57,Graduate,100000
+43,Graduate,100000
+57,Graduate,30000
+54,Doctorate,130000
+51,Post-Graduate,30000
+47,High School,30000
+41,High School,130000
+53,Uneducated,100000
+68,High School,30000
+59,College,70000
+44,Graduate,70000
+48,College,100000
+47,Graduate,70000
+47,Graduate,70000
+43,High School,30000
+55,Graduate,30000
+59,Post-Graduate,70000
+63,Graduate,50000
+58,College,130000
+53,High School,30000
+52,Graduate,130000
+48,High School,70000
+43,High School,50000
+48,College,30000
+43,Graduate,30000
+41,High School,100000
+44,Uneducated,30000
+60,Uneducated,30000
+44,Graduate,100000
+48,Graduate,50000
+44,Graduate,30000
+41,High School,100000
+45,College,70000
+47,Uneducated,30000
+51,Graduate,30000
+51,Graduate,130000
+60,Uneducated,50000
+41,Graduate,130000
+44,Post-Graduate,100000
+43,College,70000
+55,College,70000
+52,Uneducated,100000
+44,Graduate,100000
+41,Uneducated,50000
+39,High School,100000
+49,College,50000
+45,College,30000
+54,Graduate,100000
+49,Uneducated,100000
+46,High School,130000
+47,Graduate,70000
+44,Doctorate,70000
+50,Post-Graduate,130000
+73,High School,50000
+59,High School,50000
+70,High School,30000
+55,High School,30000
+45,Uneducated,130000
+45,Uneducated,50000
+40,Graduate,50000
+36,College,100000
+59,Post-Graduate,50000
+41,Uneducated,50000
+51,Graduate,30000
+64,High School,50000
+54,Graduate,70000
+40,Uneducated,70000
+57,Uneducated,50000
+45,Graduate,100000
+41,High School,100000
+42,Uneducated,30000
+45,Graduate,70000
+42,Uneducated,30000
+47,Uneducated,100000
+48,High School,50000
+43,Graduate,100000
+41,High School,100000
+54,Uneducated,50000
+61,Graduate,50000
+61,Uneducated,100000
+48,High School,130000
+45,Graduate,30000
+44,Graduate,70000
+55,Doctorate,70000
+48,Graduate,50000
+45,College,70000
+60,High School,50000
+55,High School,50000
+62,High School,50000
+38,High School,30000
+46,High School,50000
+50,High School,130000
+45,Uneducated,70000
+47,Post-Graduate,70000
+48,College,70000
+35,Uneducated,70000
+51,Graduate,130000
+47,Graduate,100000
+52,Graduate,130000
+43,Uneducated,30000
+63,High School,50000
+61,Graduate,70000
+53,Uneducated,70000
+53,Graduate,30000
+57,Graduate,130000
+53,High School,70000
+49,High School,30000
+45,High School,100000
+67,Graduate,50000
+48,Graduate,100000
+51,Uneducated,30000
+52,High School,100000
+34,High School,70000
+56,Uneducated,130000
+44,Post-Graduate,30000
+47,Post-Graduate,100000
+43,Graduate,50000
+50,Graduate,30000
+38,Uneducated,30000
+53,Graduate,30000
+43,Graduate,130000
+53,High School,130000
+56,Graduate,30000
+57,High School,30000
+62,High School,30000
+46,Graduate,30000
+49,Uneducated,70000
+52,Graduate,100000
+58,Uneducated,50000
+54,High School,100000
+49,Graduate,130000
+58,High School,30000
+52,High School,70000
+41,High School,70000
+62,Uneducated,30000
+54,Graduate,30000
+40,High School,30000
+43,Graduate,100000
+53,Graduate,50000
+55,Uneducated,50000
+46,Graduate,70000
+41,Uneducated,70000
+49,Uneducated,70000
+46,Uneducated,100000
+50,Uneducated,30000
+40,Graduate,100000
+51,High School,130000
+50,Graduate,50000
+47,Graduate,30000
+36,Graduate,50000
+47,Graduate,30000
+46,Graduate,30000
+46,High School,130000
+52,Uneducated,70000
+40,Graduate,30000
+54,High School,30000
+55,High School,30000
+45,High School,50000
+49,Graduate,50000
+63,Uneducated,100000
+40,High School,30000
+41,Graduate,30000
+37,Graduate,100000
+58,Uneducated,130000
+55,High School,70000
+53,High School,30000
+57,Graduate,100000
+43,Post-Graduate,100000
+58,Graduate,70000
+54,Graduate,30000
+53,Graduate,70000
+39,College,30000
+56,High School,70000
+59,Post-Graduate,50000
+42,Uneducated,50000
+42,Graduate,70000
+43,College,100000
+55,High School,130000
+52,Uneducated,100000
+46,Uneducated,50000
+57,Uneducated,130000
+48,College,100000
+48,High School,130000
+47,Graduate,50000
+42,College,70000
+41,Graduate,70000
+51,College,130000
+55,Graduate,30000
+67,Uneducated,50000
+39,Graduate,70000
+54,Post-Graduate,70000
+47,High School,50000
+49,Post-Graduate,70000
+42,Graduate,30000
+44,Uneducated,70000
+49,Graduate,30000
+45,Graduate,100000
+63,High School,70000
+44,Graduate,100000
+44,College,30000
+40,High School,50000
+39,Uneducated,70000
+42,High School,100000
+54,High School,130000
+46,Graduate,30000
+50,College,30000
+55,High School,70000
+46,Graduate,50000
+47,Uneducated,50000
+40,Doctorate,70000
+58,Graduate,30000
+48,Graduate,50000
+48,Graduate,100000
+53,College,50000
+50,Graduate,100000
+52,Graduate,30000
+53,Uneducated,30000
+56,Graduate,50000
+49,High School,100000
+54,Graduate,70000
+41,High School,30000
+53,Uneducated,100000
+47,Uneducated,100000
+46,Post-Graduate,30000
+53,High School,30000
+60,Graduate,100000
+59,Graduate,30000
+56,Uneducated,30000
+35,Post-Graduate,100000
+50,Graduate,70000
+53,Post-Graduate,100000
+63,Graduate,70000
+43,Uneducated,30000
+61,Uneducated,70000
+37,Post-Graduate,30000
+41,Uneducated,130000
+56,College,130000
+56,Graduate,70000
+52,Post-Graduate,30000
+40,High School,50000
+63,Graduate,50000
+58,High School,50000
+46,Uneducated,100000
+37,Graduate,50000
+46,Graduate,100000
+46,Post-Graduate,30000
+41,Graduate,100000
+48,High School,50000
+49,Graduate,50000
+44,Graduate,100000
+39,College,30000
+57,College,50000
+48,High School,100000
+47,High School,100000
+54,College,30000
+54,Graduate,70000
+52,High School,100000
+59,College,50000
+56,College,30000
+55,High School,100000
+48,College,50000
+56,College,30000
+41,Uneducated,70000
+65,High School,30000
+34,Post-Graduate,100000
+56,Post-Graduate,70000
+62,High School,30000
+38,Uneducated,30000
+58,High School,70000
+41,Graduate,50000
+33,Graduate,70000
+47,College,30000
+56,Graduate,30000
+51,Graduate,70000
+49,Graduate,50000
+26,Graduate,30000
+58,College,100000
+46,High School,100000
+48,High School,130000
+42,Uneducated,70000
+37,Graduate,100000
+50,High School,50000
+41,High School,50000
+48,Graduate,30000
+46,College,100000
+61,High School,70000
+39,Doctorate,50000
+51,High School,130000
+45,Graduate,70000
+47,Graduate,70000
+41,High School,50000
+48,College,100000
+50,Graduate,30000
+56,Post-Graduate,30000
+39,College,30000
+47,Graduate,100000
+44,Graduate,130000
+43,Post-Graduate,30000
+59,High School,70000
+48,College,70000
+44,Graduate,50000
+45,Graduate,70000
+39,Graduate,100000
+40,College,100000
+62,High School,70000
+26,Graduate,50000
+60,Uneducated,30000
+54,Doctorate,30000
+62,Graduate,70000
+57,College,50000
+59,Graduate,50000
+46,Graduate,70000
+44,High School,70000
+43,Uneducated,130000
+57,Uneducated,130000
+46,College,100000
+40,High School,70000
+57,Graduate,50000
+44,Graduate,70000
+47,Doctorate,30000
+47,Doctorate,70000
+50,High School,30000
+53,College,50000
+56,College,70000
+55,High School,70000
+53,High School,30000
+57,High School,70000
+50,Graduate,100000
+52,Graduate,130000
+60,Graduate,30000
+49,Uneducated,100000
+46,Doctorate,30000
+42,Uneducated,100000
+45,High School,30000
+45,Uneducated,30000
+44,Doctorate,30000
+61,Uneducated,100000
+55,Uneducated,70000
+45,Doctorate,100000
+57,High School,50000
+31,Uneducated,50000
+34,Graduate,30000
+53,Graduate,30000
+44,Graduate,30000
+50,Graduate,100000
+33,Post-Graduate,100000
+50,Graduate,70000
+51,High School,100000
+55,Graduate,30000
+26,College,30000
+42,Graduate,30000
+54,College,100000
+65,Graduate,50000
+58,High School,70000
+39,Post-Graduate,50000
+52,High School,130000
+45,Graduate,30000
+42,College,70000
+57,Post-Graduate,130000
+55,Doctorate,100000
+44,College,30000
+51,Graduate,50000
+37,Graduate,100000
+36,Graduate,30000
+51,High School,30000
+65,Uneducated,50000
+43,College,70000
+46,Graduate,50000
+43,Graduate,30000
+56,Graduate,100000
+53,Graduate,100000
+50,High School,70000
+43,Graduate,50000
+54,High School,100000
+58,Uneducated,50000
+41,Graduate,100000
+48,Post-Graduate,70000
+55,High School,50000
+54,Graduate,30000
+35,Graduate,100000
+50,Uneducated,100000
+55,High School,100000
+45,College,30000
+34,Uneducated,70000
+55,Graduate,50000
+46,Graduate,70000
+61,Graduate,30000
+48,Uneducated,70000
+51,Graduate,30000
+39,Doctorate,70000
+43,Graduate,130000
+53,Graduate,70000
+38,High School,100000
+49,High School,30000
+53,Graduate,100000
+46,Post-Graduate,50000
+44,Uneducated,30000
+58,Uneducated,50000
+55,High School,130000
+44,College,100000
+57,High School,100000
+57,High School,50000
+48,High School,100000
+51,Graduate,70000
+53,Uneducated,30000
+45,Doctorate,30000
+41,Post-Graduate,70000
+51,Graduate,30000
+46,High School,30000
+40,College,30000
+33,Doctorate,70000
+53,High School,100000
+63,High School,50000
+61,Uneducated,100000
+56,High School,70000
+53,Graduate,70000
+62,Graduate,30000
+37,Graduate,70000
+49,Uneducated,100000
+55,High School,100000
+50,Graduate,100000
+48,College,70000
+60,Uneducated,50000
+47,College,130000
+54,Uneducated,70000
+53,Doctorate,70000
+56,Graduate,50000
+56,High School,50000
+41,Uneducated,100000
+60,Graduate,50000
+40,Graduate,50000
+49,Post-Graduate,50000
+46,Graduate,50000
+36,High School,30000
+38,High School,100000
+50,Graduate,100000
+62,Graduate,70000
+39,Uneducated,50000
+38,College,100000
+44,College,30000
+43,High School,100000
+54,Post-Graduate,100000
+46,Uneducated,100000
+55,Post-Graduate,30000
+52,Doctorate,130000
+39,Graduate,30000
+42,Graduate,30000
+43,College,30000
+39,College,50000
+50,Uneducated,70000
+57,Post-Graduate,130000
+52,High School,50000
+43,High School,70000
+42,High School,100000
+58,Uneducated,50000
+42,College,100000
+55,Post-Graduate,100000
+40,Graduate,30000
+48,Uneducated,100000
+33,High School,30000
+58,Graduate,50000
+36,College,50000
+43,Uneducated,70000
+58,Uneducated,100000
+42,Graduate,70000
+49,Doctorate,70000
+53,Uneducated,30000
+45,High School,50000
+29,High School,100000
+60,Doctorate,130000
+50,Post-Graduate,100000
+53,Doctorate,130000
+50,Uneducated,30000
+46,Doctorate,100000
+46,College,130000
+43,Graduate,50000
+54,Graduate,130000
+35,High School,50000
+35,Doctorate,50000
+36,High School,30000
+43,Doctorate,70000
+39,High School,50000
+47,Post-Graduate,30000
+60,Post-Graduate,100000
+30,High School,30000
+52,Graduate,130000
+40,Graduate,130000
+36,Post-Graduate,30000
+62,College,30000
+41,High School,70000
+30,High School,70000
+46,Uneducated,70000
+29,Post-Graduate,50000
+37,Uneducated,30000
+51,High School,30000
+31,Graduate,50000
+45,Uneducated,100000
+57,Graduate,100000
+44,Graduate,50000
+53,High School,130000
+32,Graduate,30000
+53,Graduate,100000
+54,High School,100000
+42,Uneducated,30000
+38,College,30000
+54,Graduate,70000
+37,High School,50000
+48,Graduate,50000
+37,High School,70000
+34,High School,70000
+46,Graduate,100000
+38,College,30000
+31,Graduate,30000
+46,Graduate,30000
+47,High School,70000
+47,Graduate,30000
+56,College,70000
+47,Uneducated,70000
+47,Graduate,100000
+64,Graduate,30000
+42,College,70000
+41,College,100000
+65,High School,30000
+49,Post-Graduate,50000
+54,High School,70000
+46,Uneducated,130000
+48,Doctorate,30000
+39,College,30000
+41,Uneducated,100000
+39,Uneducated,30000
+44,Uneducated,30000
+26,Graduate,50000
+47,High School,70000
+47,High School,70000
+57,High School,50000
+54,Graduate,70000
+39,College,70000
+53,Graduate,130000
+59,College,30000
+34,Uneducated,50000
+47,Doctorate,100000
+54,College,130000
+53,College,30000
+50,Graduate,100000
+56,College,100000
+43,High School,70000
+44,High School,30000
+34,Graduate,50000
+61,Graduate,100000
+56,High School,70000
+47,Graduate,70000
+53,Graduate,100000
+39,High School,50000
+44,Graduate,100000
+46,Graduate,70000
+35,High School,100000
+39,College,30000
+61,Graduate,30000
+40,Graduate,30000
+53,College,130000
+35,Uneducated,30000
+51,Uneducated,130000
+42,High School,50000
+46,High School,30000
+46,Uneducated,50000
+46,High School,70000
+62,Graduate,70000
+55,Uneducated,70000
+55,College,100000
+32,High School,50000
+37,Uneducated,30000
+42,College,100000
+33,Post-Graduate,100000
+65,High School,30000
+57,Graduate,100000
+45,Graduate,30000
+62,Uneducated,70000
+51,College,130000
+57,Graduate,100000
+32,Graduate,30000
+43,Graduate,30000
+53,Doctorate,30000
+42,Uneducated,70000
+53,Graduate,100000
+60,High School,30000
+30,Graduate,100000
+43,Uneducated,30000
+60,Uneducated,70000
+46,High School,50000
+65,High School,50000
+44,College,50000
+56,College,30000
+37,Graduate,50000
+48,High School,100000
+37,College,50000
+39,Uneducated,70000
+41,Graduate,130000
+55,High School,30000
+34,Graduate,100000
+54,Post-Graduate,30000
+40,Post-Graduate,100000
+52,High School,130000
+45,Graduate,70000
+61,Post-Graduate,50000
+57,High School,30000
+48,College,30000
+34,High School,50000
+49,High School,70000
+53,High School,130000
+34,Uneducated,100000
+54,Graduate,70000
+40,Graduate,130000
+41,High School,30000
+46,Graduate,30000
+46,Graduate,70000
+30,Graduate,70000
+59,Post-Graduate,50000
+50,Doctorate,100000
+45,High School,70000
+53,High School,30000
+42,Doctorate,50000
+46,High School,50000
+33,Graduate,70000
+46,Graduate,30000
+61,High School,70000
+42,Uneducated,50000
+47,Graduate,30000
+47,Graduate,30000
+53,Graduate,50000
+46,Graduate,30000
+26,College,30000
+45,Graduate,70000
+36,High School,50000
+42,High School,70000
+52,Graduate,100000
+37,Graduate,130000
+53,Uneducated,50000
+65,Post-Graduate,50000
+47,Uneducated,100000
+38,Uneducated,70000
+52,High School,70000
+36,High School,100000
+43,College,70000
+65,Graduate,30000
+51,Doctorate,30000
+40,Graduate,100000
+39,College,100000
+60,Uneducated,70000
+43,Uneducated,50000
+31,Uneducated,30000
+55,Graduate,130000
+65,College,30000
+54,High School,30000
+38,High School,30000
+36,Post-Graduate,70000
+43,High School,70000
+41,Graduate,130000
+50,High School,130000
+48,College,100000
+55,Post-Graduate,50000
+44,Graduate,30000
+42,Graduate,100000
+54,Graduate,130000
+57,Uneducated,130000
+53,Uneducated,50000
+41,Uneducated,30000
+39,Graduate,130000
+45,Graduate,50000
+46,Graduate,100000
+54,High School,100000
+48,Graduate,100000
+56,High School,50000
+33,Post-Graduate,50000
+44,Graduate,30000
+62,Post-Graduate,30000
+36,High School,30000
+46,Graduate,100000
+61,Graduate,30000
+42,Graduate,50000
+35,Graduate,100000
+65,High School,50000
+36,Post-Graduate,130000
+42,Graduate,30000
+51,Uneducated,100000
+54,Uneducated,30000
+40,College,50000
+40,Graduate,100000
+57,College,30000
+57,Graduate,100000
+53,Uneducated,50000
+40,Graduate,100000
+28,Graduate,30000
+38,High School,30000
+37,Graduate,30000
+41,High School,70000
+54,Graduate,100000
+26,Graduate,30000
+46,Graduate,100000
+55,Graduate,100000
+50,Post-Graduate,30000
+38,High School,50000
+39,Graduate,30000
+39,High School,70000
+49,Graduate,30000
+45,Graduate,30000
+55,Graduate,100000
+44,Graduate,130000
+49,Post-Graduate,50000
+41,Uneducated,100000
+35,College,100000
+38,High School,100000
+58,College,130000
+47,Post-Graduate,50000
+33,Graduate,30000
+54,Doctorate,50000
+35,Graduate,30000
+47,Graduate,130000
+35,College,70000
+48,High School,100000
+36,Doctorate,70000
+44,Graduate,100000
+44,College,30000
+36,Graduate,30000
+64,Doctorate,50000
+34,Graduate,30000
+49,Graduate,100000
+37,High School,70000
+65,High School,50000
+53,Post-Graduate,100000
+32,High School,50000
+65,Graduate,30000
+60,Graduate,50000
+27,Graduate,30000
+52,Post-Graduate,70000
+42,High School,100000
+29,Graduate,50000
+29,High School,50000
+38,High School,50000
+36,Graduate,50000
+40,Post-Graduate,30000
+47,Post-Graduate,70000
+26,High School,50000
+52,Graduate,30000
+50,Graduate,100000
+34,Graduate,100000
+49,High School,100000
+53,High School,100000
+48,Doctorate,130000
+32,Graduate,30000
+38,High School,100000
+43,Uneducated,100000
+51,Graduate,30000
+58,Graduate,130000
+59,Graduate,30000
+51,High School,70000
+62,High School,50000
+33,Uneducated,130000
+54,High School,100000
+37,Graduate,50000
+61,High School,100000
+56,Doctorate,70000
+51,Post-Graduate,30000
+44,Graduate,30000
+64,Uneducated,50000
+39,Post-Graduate,30000
+38,Uneducated,30000
+53,Uneducated,130000
+35,Post-Graduate,50000
+26,College,70000
+32,High School,50000
+36,Uneducated,50000
+48,College,100000
+52,Graduate,100000
+52,High School,30000
+58,Doctorate,50000
+38,Graduate,30000
+60,Graduate,30000
+43,College,30000
+35,Post-Graduate,100000
+38,Graduate,30000
+48,Graduate,70000
+43,College,50000
+36,Post-Graduate,30000
+34,College,100000
+43,College,30000
+48,Uneducated,50000
+44,Graduate,50000
+38,Graduate,70000
+62,High School,50000
+53,High School,30000
+64,High School,50000
+52,College,100000
+43,High School,100000
+40,Graduate,70000
+54,High School,70000
+34,High School,30000
+33,High School,30000
+36,Graduate,100000
+65,Graduate,30000
+43,High School,50000
+53,Graduate,130000
+48,College,30000
+39,High School,30000
+48,Graduate,70000
+51,High School,70000
+38,Graduate,30000
+35,Graduate,70000
+46,Doctorate,30000
+48,College,100000
+49,Uneducated,30000
+35,High School,50000
+54,Uneducated,30000
+50,High School,100000
+54,Graduate,30000
+39,High School,100000
+53,High School,130000
+32,College,100000
+57,Uneducated,30000
+65,High School,30000
+57,Uneducated,100000
+65,College,30000
+65,High School,30000
+55,College,100000
+54,College,100000
+44,High School,130000
+58,Uneducated,100000
+53,College,50000
+33,High School,30000
+47,Graduate,30000
+38,Graduate,30000
+57,Doctorate,100000
+36,Uneducated,50000
+35,Uneducated,100000
+56,Doctorate,70000
+38,High School,30000
+54,Graduate,30000
+53,Graduate,100000
+30,Graduate,30000
+47,Uneducated,100000
+60,College,30000
+54,College,130000
+37,Uneducated,30000
+32,Post-Graduate,30000
+44,Uneducated,30000
+53,College,50000
+43,High School,100000
+49,Graduate,30000
+56,College,50000
+26,Graduate,50000
+58,High School,70000
+35,High School,100000
+37,High School,70000
+43,High School,100000
+49,Graduate,70000
+49,Uneducated,100000
+39,Graduate,30000
+41,Uneducated,30000
+32,High School,30000
+58,Uneducated,30000
+56,Post-Graduate,70000
+37,Graduate,30000
+39,High School,130000
+26,Graduate,50000
+36,College,130000
+53,College,30000
+38,Uneducated,30000
+37,Graduate,30000
+47,Graduate,30000
+56,College,100000
+55,High School,30000
+31,Uneducated,30000
+34,High School,130000
+33,High School,70000
+38,Uneducated,30000
+65,Graduate,50000
+57,High School,100000
+58,High School,30000
+39,High School,30000
+60,Uneducated,30000
+37,High School,30000
+56,Uneducated,130000
+60,High School,70000
+56,High School,30000
+62,College,50000
+41,Uneducated,30000
+59,Graduate,50000
+26,High School,70000
+40,Graduate,100000
+37,High School,70000
+65,Graduate,30000
+46,College,70000
+53,High School,130000
+56,Uneducated,30000
+48,Graduate,50000
+34,High School,130000
+65,Graduate,30000
+55,Post-Graduate,100000
+54,High School,130000
+52,High School,70000
+36,Uneducated,70000
+56,Graduate,70000
+33,Graduate,70000
+61,Graduate,100000
+61,Graduate,70000
+43,Uneducated,50000
+48,College,30000
+36,Graduate,70000
+34,Uneducated,50000
+53,Graduate,30000
+61,High School,30000
+55,High School,100000
+38,Graduate,100000
+52,Uneducated,100000
+36,High School,30000
+45,High School,50000
+34,College,50000
+27,Graduate,130000
+43,Graduate,30000
+52,Graduate,100000
+40,Uneducated,100000
+39,Graduate,100000
+45,Graduate,70000
+37,Graduate,30000
+49,Graduate,30000
+56,Graduate,130000
+62,High School,30000
+37,High School,50000
+42,High School,50000
+36,Graduate,70000
+59,Graduate,50000
+43,High School,50000
+29,Graduate,50000
+42,Graduate,50000
+36,Post-Graduate,30000
+53,High School,100000
+36,Uneducated,30000
+26,College,30000
+55,Graduate,30000
+26,Uneducated,30000
+40,Graduate,70000
+38,Graduate,50000
+52,Graduate,50000
+29,Graduate,100000
+38,Graduate,70000
+46,High School,30000
+57,Uneducated,70000
+42,High School,100000
+62,Post-Graduate,50000
+37,Graduate,50000
+35,High School,50000
+39,Graduate,70000
+64,College,30000
+37,Graduate,30000
+34,College,70000
+46,Uneducated,70000
+65,High School,50000
+36,Graduate,70000
+35,College,50000
+26,Post-Graduate,50000
+52,Graduate,70000
+37,High School,50000
+33,Graduate,30000
+59,Uneducated,70000
+34,High School,50000
+59,Graduate,70000
+50,Graduate,70000
+32,High School,70000
+51,College,50000
+41,Doctorate,100000
+39,Graduate,50000
+49,Uneducated,30000
+40,High School,30000
+36,Uneducated,30000
+56,College,130000
+37,Doctorate,100000
+36,Uneducated,30000
+62,Graduate,100000
+31,Uneducated,30000
+42,High School,130000
+38,High School,70000
+45,Graduate,70000
+50,Graduate,30000
+58,Graduate,100000
+35,High School,100000
+58,High School,130000
+42,Graduate,70000
+32,College,30000
+35,Graduate,130000
+51,Uneducated,100000
+63,Graduate,30000
+42,Graduate,50000
+38,Graduate,100000
+29,High School,50000
+54,Uneducated,50000
+33,Graduate,50000
+49,Post-Graduate,70000
+44,Graduate,30000
+57,Uneducated,100000
+52,Uneducated,30000
+52,Graduate,30000
+43,College,70000
+36,Post-Graduate,70000
+55,Graduate,130000
+30,Graduate,30000
+26,High School,30000
+48,High School,50000
+53,Graduate,50000
+53,Graduate,130000
+58,Uneducated,30000
+32,Graduate,100000
+48,Uneducated,70000
+48,High School,50000
+54,College,130000
+59,High School,30000
+35,Graduate,70000
+37,Post-Graduate,50000
+36,High School,130000
+26,Uneducated,50000
+35,Graduate,30000
+40,Post-Graduate,70000
+39,Graduate,30000
+49,High School,70000
+32,Post-Graduate,70000
+35,Post-Graduate,100000
+39,Graduate,50000
+53,Graduate,30000
+26,Graduate,50000
+32,High School,70000
+54,College,130000
+36,High School,30000
+45,High School,30000
+49,Graduate,100000
+44,Doctorate,130000
+64,Doctorate,30000
+31,Post-Graduate,70000
+49,Uneducated,50000
+32,High School,30000
+53,High School,130000
+30,Graduate,30000
+34,Uneducated,130000
+41,Post-Graduate,50000
+33,Uneducated,50000
+56,High School,130000
+36,High School,100000
+35,Graduate,70000
+27,Graduate,50000
+46,High School,70000
+48,Graduate,70000
+38,Graduate,70000
+36,Post-Graduate,100000
+56,High School,100000
+32,Doctorate,70000
+36,Doctorate,70000
+35,High School,30000
+32,High School,70000
+56,High School,50000
+37,Uneducated,30000
+38,Graduate,30000
+35,College,70000
+48,Doctorate,100000
+29,Graduate,50000
+33,Graduate,100000
+39,High School,50000
+27,High School,30000
+31,Graduate,50000
+45,Graduate,70000
+35,High School,70000
+55,College,130000
+61,Uneducated,50000
+37,Graduate,30000
+47,College,130000
+55,Graduate,50000
+37,Post-Graduate,100000
+36,College,30000
+26,High School,70000
+45,Graduate,30000
+60,Post-Graduate,70000
+30,Post-Graduate,30000
+39,High School,70000
+48,College,30000
+39,Graduate,70000
+38,Graduate,100000
+47,High School,130000
+26,Graduate,30000
+49,College,130000
+38,High School,100000
+30,Graduate,30000
+53,High School,130000
+35,Uneducated,70000
+40,Uneducated,50000
+30,High School,70000
+42,College,50000
+62,Graduate,30000
+50,Post-Graduate,50000
+56,College,130000
+45,Graduate,100000
+35,Uneducated,30000
+57,Graduate,30000
+43,Graduate,30000
+53,Graduate,100000
+50,College,70000
+30,High School,130000
+37,Graduate,30000
+37,Doctorate,50000
+45,Graduate,100000
+63,College,50000
+43,Graduate,70000
+53,Graduate,70000
+36,High School,70000
+51,High School,130000
+36,Graduate,100000
+34,Graduate,30000
+57,Doctorate,70000
+29,Uneducated,70000
+37,Post-Graduate,30000
+53,College,30000
+36,College,50000
+53,Graduate,70000
+52,Graduate,130000
+35,Uneducated,30000
+37,Graduate,30000
+50,Uneducated,70000
+65,Graduate,30000
+40,Graduate,100000
+39,High School,70000
+36,Uneducated,70000
+35,Graduate,50000
+37,High School,30000
+39,College,100000
+65,College,30000
+38,Graduate,30000
+36,Graduate,30000
+40,Graduate,30000
+35,College,50000
+54,Post-Graduate,130000
+40,Graduate,100000
+59,Uneducated,50000
+26,High School,50000
+46,High School,70000
+38,Graduate,50000
+31,Graduate,70000
+35,High School,70000
+56,Uneducated,100000
+34,College,100000
+42,Doctorate,100000
+29,College,70000
+32,Graduate,50000
+37,High School,30000
+38,Graduate,100000
+52,High School,70000
+62,Graduate,30000
+36,Graduate,70000
+54,College,100000
+27,High School,70000
+26,High School,50000
+56,Graduate,30000
+60,Graduate,50000
+54,Graduate,70000
+33,College,100000
+35,Graduate,70000
+29,College,30000
+33,Graduate,130000
+34,Graduate,50000
+48,Graduate,70000
+38,High School,100000
+42,High School,70000
+55,Graduate,50000
+62,High School,50000
+39,Uneducated,50000
+56,College,100000
+36,Graduate,30000
+29,College,100000
+57,High School,130000
+51,Graduate,50000
+56,Graduate,30000
+26,College,50000
+53,Graduate,50000
+41,Graduate,50000
+26,Post-Graduate,30000
+51,College,30000
+34,Graduate,70000
+52,High School,100000
+54,Graduate,30000
+37,College,100000
+55,Doctorate,100000
+45,High School,100000
+37,High School,30000
+30,Graduate,70000
+36,Graduate,100000
+39,Graduate,50000
+34,Graduate,30000
+47,High School,70000
+42,High School,100000
+61,Graduate,50000
+31,College,50000
+40,College,100000
+42,Graduate,30000
+54,Graduate,30000
+31,Graduate,30000
+45,Graduate,50000
+38,Graduate,100000
+57,Uneducated,50000
+63,Graduate,50000
+42,Post-Graduate,30000
+61,Doctorate,50000
+61,Graduate,130000
+35,College,70000
+57,Graduate,100000
+53,Graduate,100000
+35,Graduate,30000
+47,High School,50000
+38,Graduate,100000
+26,High School,30000
+57,Graduate,30000
+39,Graduate,130000
+35,Uneducated,70000
+38,Graduate,100000
+36,Uneducated,50000
+39,College,100000
+28,High School,30000
+65,Graduate,30000
+26,Uneducated,30000
+28,Graduate,30000
+31,Uneducated,30000
+57,Post-Graduate,70000
+43,High School,50000
+26,Uneducated,30000
+39,High School,50000
+52,Uneducated,50000
+33,Graduate,100000
+53,High School,70000
+65,Graduate,30000
+33,Uneducated,30000
+52,High School,70000
+37,Graduate,30000
+56,Graduate,130000
+35,Uneducated,130000
+58,Graduate,30000
+37,Uneducated,100000
+53,Uneducated,50000
+38,Uneducated,50000
+38,Uneducated,100000
+43,Uneducated,30000
+36,College,100000
+38,Uneducated,30000
+37,Graduate,50000
+37,College,70000
+29,Uneducated,30000
+51,High School,70000
+54,College,70000
+35,High School,100000
+38,College,50000
+33,High School,30000
+45,Uneducated,30000
+61,Graduate,50000
+33,Uneducated,30000
+55,High School,70000
+34,Graduate,30000
+58,High School,50000
+38,Graduate,30000
+59,College,130000
+55,High School,70000
+63,Graduate,70000
+60,High School,30000
+53,Uneducated,30000
+35,High School,70000
+58,Graduate,30000
+53,Graduate,100000
+59,Doctorate,70000
+37,High School,130000
+50,High School,30000
+35,Uneducated,30000
+28,Post-Graduate,50000
+37,Uneducated,100000
+39,Graduate,50000
+31,Post-Graduate,50000
+37,Graduate,70000
+39,Graduate,30000
+38,Graduate,100000
+35,Graduate,50000
+30,Graduate,30000
+48,Post-Graduate,30000
+33,Uneducated,30000
+37,High School,30000
+39,College,50000
+65,Graduate,30000
+43,Graduate,70000
+38,Uneducated,100000
+48,Post-Graduate,50000
+38,Graduate,70000
+65,Graduate,30000
+35,Graduate,50000
+58,Graduate,30000
+53,Graduate,100000
+38,Post-Graduate,70000
+34,Graduate,130000
+39,High School,70000
+37,Graduate,100000
+51,High School,30000
+53,Uneducated,30000
+53,Graduate,100000
+65,Graduate,30000
+33,High School,30000
+37,Doctorate,70000
+47,Graduate,50000
+59,High School,30000
+59,Post-Graduate,30000
+26,Uneducated,30000
+45,College,130000
+52,Post-Graduate,100000
+47,High School,50000
+34,Graduate,70000
+36,College,100000
+36,Uneducated,50000
+57,Uneducated,50000
+29,Post-Graduate,30000
+37,Graduate,100000
+46,Graduate,30000
+55,High School,100000
+56,Graduate,100000
+32,High School,130000
+39,Uneducated,130000
+63,Graduate,30000
+38,High School,70000
+60,Uneducated,30000
+38,Uneducated,70000
+63,High School,100000
+43,College,30000
+39,Graduate,30000
+45,College,100000
+35,Graduate,50000
+48,Graduate,50000
+26,High School,50000
+36,College,130000
+37,College,100000
+49,High School,100000
+56,Uneducated,70000
+45,College,70000
+28,High School,30000
+65,Post-Graduate,30000
+26,College,30000
+57,Uneducated,30000
+47,Graduate,130000
+54,Graduate,30000
+43,Graduate,100000
+54,Graduate,30000
+37,College,70000
+33,Graduate,100000
+38,College,50000
+36,Graduate,100000
+37,Graduate,130000
+45,High School,70000
+26,High School,30000
+42,Graduate,50000
+33,College,100000
+57,High School,50000
+55,Graduate,70000
+40,Uneducated,100000
+32,High School,30000
+62,High School,30000
+26,Graduate,70000
+37,High School,30000
+57,Doctorate,100000
+47,Graduate,100000
+49,Uneducated,30000
+35,Graduate,100000
+55,College,30000
+36,Graduate,70000
+54,High School,100000
+30,Graduate,30000
+46,Graduate,50000
+43,Graduate,100000
+34,Graduate,130000
+55,Graduate,100000
+44,Graduate,100000
+34,Graduate,100000
+40,Graduate,70000
+42,College,70000
+36,Graduate,50000
+26,High School,30000
+42,High School,50000
+55,Graduate,50000
+61,High School,70000
+41,College,130000
+35,Graduate,30000
+34,Graduate,130000
+37,High School,100000
+46,Uneducated,70000
+26,College,50000
+54,High School,30000
+47,Graduate,30000
+56,Graduate,30000
+40,High School,100000
+33,Graduate,30000
+64,Graduate,30000
+33,High School,100000
+52,Post-Graduate,100000
+59,Uneducated,30000
+29,Graduate,30000
+40,High School,100000
+37,Graduate,30000
+32,High School,30000
+36,Graduate,70000
+58,High School,50000
+53,High School,100000
+36,Uneducated,130000
+26,Uneducated,50000
+38,Graduate,50000
+32,High School,50000
+37,Graduate,30000
+55,Graduate,50000
+58,High School,70000
+47,High School,100000
+32,Graduate,30000
+56,High School,70000
+34,Doctorate,30000
+55,Uneducated,130000
+43,High School,100000
+31,College,30000
+54,College,30000
+52,Graduate,100000
+48,College,50000
+54,High School,30000
+33,Uneducated,70000
+26,Post-Graduate,30000
+30,Uneducated,30000
+49,Graduate,30000
+53,Uneducated,100000
+39,Uneducated,130000
+34,College,70000
+53,College,100000
+32,Graduate,50000
+39,Graduate,100000
+57,High School,130000
+36,Graduate,100000
+39,College,50000
+31,Graduate,30000
+31,Graduate,50000
+36,Graduate,70000
+47,Graduate,30000
+37,College,70000
+39,Graduate,100000
+37,Graduate,50000
+58,Graduate,100000
+58,Graduate,30000
+37,Graduate,50000
+54,Graduate,100000
+45,Uneducated,30000
+53,Graduate,50000
+34,College,30000
+35,Graduate,100000
+32,Graduate,50000
+38,Uneducated,30000
+37,Uneducated,100000
+47,Graduate,30000
+54,High School,70000
+53,College,100000
+33,College,30000
+49,Graduate,70000
+37,Doctorate,130000
+31,Uneducated,50000
+43,Graduate,130000
+39,Uneducated,100000
+38,High School,50000
+62,Uneducated,30000
+30,College,50000
+46,Doctorate,100000
+39,College,70000
+53,College,50000
+34,Uneducated,130000
+54,Graduate,30000
+54,High School,100000
+39,Uneducated,70000
+36,Graduate,30000
+38,High School,50000
+28,Graduate,30000
+57,Graduate,50000
+48,Graduate,30000
+38,Uneducated,70000
+37,High School,70000
+54,Uneducated,50000
+52,Graduate,70000
+53,Graduate,30000
+27,High School,30000
+32,High School,30000
+57,Graduate,130000
+58,Uneducated,130000
+54,High School,30000
+45,Graduate,70000
+36,Post-Graduate,30000
+39,Graduate,50000
+39,Graduate,50000
+34,High School,100000
+54,Uneducated,50000
+54,High School,100000
+36,Graduate,70000
+37,High School,130000
+27,Uneducated,50000
+55,Graduate,30000
+56,Graduate,70000
+58,Graduate,30000
+38,High School,70000
+33,Graduate,50000
+54,Post-Graduate,30000
+33,High School,70000
+44,Doctorate,30000
+34,Uneducated,100000
+63,Uneducated,50000
+37,High School,30000
+39,Post-Graduate,70000
+39,High School,100000
+55,Graduate,70000
+37,Graduate,130000
+57,Doctorate,100000
+45,Graduate,30000
+53,Graduate,100000
+37,Graduate,70000
+60,Uneducated,30000
+29,Uneducated,30000
+56,Uneducated,30000
+37,Graduate,100000
+43,High School,70000
+58,Graduate,100000
+29,Post-Graduate,30000
+38,High School,130000
+62,Graduate,30000
+53,Graduate,100000
+26,Graduate,50000
+46,High School,30000
+51,College,50000
+39,Uneducated,30000
+59,High School,50000
+31,Graduate,50000
+37,High School,50000
+36,High School,50000
+61,Graduate,30000
+26,High School,30000
+35,College,100000
+53,College,130000
+59,High School,30000
+37,Graduate,100000
+38,High School,70000
+37,Uneducated,70000
+33,Graduate,130000
+38,College,100000
+56,Uneducated,130000
+59,High School,100000
+30,Post-Graduate,30000
+56,High School,50000
+31,Graduate,70000
+26,College,50000
+29,Graduate,30000
+53,Uneducated,30000
+35,High School,30000
+35,Uneducated,130000
+56,High School,30000
+35,Uneducated,50000
+32,High School,70000
+49,College,30000
+36,Graduate,130000
+58,High School,70000
+35,High School,30000
+39,Graduate,50000
+65,Uneducated,30000
+65,High School,30000
+56,Uneducated,50000
+58,High School,100000
+39,Uneducated,30000
+51,College,30000
+58,Uneducated,50000
+34,Graduate,30000
+53,Graduate,100000
+32,College,100000
+49,High School,70000
+39,Uneducated,30000
+32,Graduate,50000
+30,College,30000
+37,Uneducated,100000
+38,Uneducated,50000
+46,Uneducated,130000
+36,Uneducated,70000
+33,Post-Graduate,100000
+58,Post-Graduate,30000
+46,Doctorate,130000
+54,Doctorate,30000
+50,High School,130000
+41,College,70000
+53,Graduate,70000
+36,Graduate,30000
+45,College,130000
+36,High School,100000
+45,Graduate,50000
+38,Graduate,50000
+35,High School,30000
+48,College,30000
+51,Uneducated,130000
+31,College,100000
+40,College,30000
+43,High School,100000
+63,Graduate,50000
+31,High School,30000
+36,Uneducated,100000
+34,High School,70000
+55,Doctorate,70000
+46,Graduate,50000
+45,College,70000
+52,Doctorate,30000
+40,High School,30000
+46,Uneducated,30000
+54,Graduate,30000
+36,Graduate,30000
+44,Graduate,50000
+37,Uneducated,30000
+35,Graduate,100000
+37,High School,50000
+65,Graduate,30000
+55,Graduate,130000
+55,Graduate,100000
+41,Uneducated,50000
+57,High School,30000
+37,High School,70000
+62,College,50000
+42,College,70000
+47,Graduate,30000
+44,Graduate,30000
+34,High School,30000
+40,Uneducated,100000
+51,Doctorate,50000
+65,High School,50000
+46,Graduate,100000
+27,Graduate,50000
+37,High School,30000
+34,Graduate,50000
+35,Uneducated,30000
+55,Post-Graduate,30000
+60,Doctorate,30000
+56,Graduate,70000
+52,High School,100000
+45,Uneducated,50000
+56,Graduate,130000
+26,Graduate,30000
+34,High School,100000
+39,Uneducated,70000
+36,Graduate,130000
+48,Doctorate,100000
+39,Uneducated,30000
+61,Graduate,30000
+45,High School,30000
+34,Uneducated,130000
+37,Graduate,50000
+44,Graduate,30000
+56,Uneducated,100000
+65,Graduate,30000
+26,Graduate,30000
+34,Uneducated,70000
+51,College,130000
+57,College,70000
+30,Graduate,100000
+35,Post-Graduate,100000
+32,Graduate,50000
+32,Uneducated,30000
+53,High School,100000
+55,College,70000
+35,Graduate,30000
+31,Graduate,30000
+45,Graduate,50000
+61,High School,30000
+31,Uneducated,30000
+37,Graduate,70000
+41,Post-Graduate,70000
+58,Graduate,130000
+45,Graduate,50000
+57,High School,30000
+55,Doctorate,130000
+41,High School,50000
+55,Uneducated,30000
+52,Graduate,30000
+57,Graduate,130000
+40,High School,30000
+47,High School,100000
+42,Uneducated,30000
+39,Graduate,100000
+39,Graduate,70000
+36,Graduate,130000
+36,Uneducated,70000
+29,Graduate,30000
+37,Graduate,30000
+61,Post-Graduate,30000
+36,High School,70000
+51,Graduate,50000
+46,Graduate,70000
+31,High School,30000
+33,Doctorate,50000
+50,High School,30000
+48,High School,50000
+50,Graduate,50000
+39,Graduate,100000
+39,College,70000
+37,Graduate,100000
+38,Graduate,50000
+65,High School,50000
+38,Graduate,50000
+41,College,100000
+55,Graduate,30000
+55,College,100000
+57,College,100000
+35,Graduate,30000
+46,College,30000
+31,Uneducated,50000
+50,College,30000
+44,High School,30000
+63,High School,30000
+41,Graduate,100000
+55,Graduate,70000
+48,College,30000
+35,High School,130000
+30,Post-Graduate,30000
+37,High School,100000
+53,Graduate,30000
+37,Graduate,70000
+48,Doctorate,30000
+37,Graduate,50000
+35,High School,70000
+35,Graduate,30000
+49,High School,50000
+33,College,100000
+36,Graduate,50000
+47,Doctorate,30000
+41,Graduate,30000
+46,Graduate,70000
+58,Graduate,70000
+53,Doctorate,30000
+49,Graduate,100000
+35,High School,30000
+47,College,130000
+38,Graduate,70000
+56,Graduate,100000
+56,High School,130000
+38,High School,70000
+46,College,100000
+37,High School,50000
+65,Graduate,30000
+38,College,100000
+26,College,50000
+58,Graduate,30000
+48,Uneducated,130000
+48,Graduate,30000
+33,Graduate,100000
+62,Doctorate,50000
+55,Uneducated,100000
+40,Graduate,30000
+46,High School,50000
+58,High School,50000
+47,Graduate,70000
+53,Graduate,130000
+45,Graduate,70000
+48,Uneducated,50000
+43,Post-Graduate,70000
+60,Uneducated,70000
+56,High School,130000
+43,College,50000
+57,High School,30000
+52,Uneducated,50000
+43,Graduate,100000
+38,Graduate,70000
+53,College,50000
+58,College,100000
+34,College,30000
+36,High School,50000
+55,Graduate,50000
+54,Uneducated,100000
+36,College,50000
+53,Graduate,130000
+48,Graduate,30000
+37,Uneducated,50000
+45,Uneducated,100000
+54,High School,30000
+38,High School,70000
+35,College,30000
+36,Uneducated,30000
+33,Post-Graduate,130000
+28,High School,30000
+36,Uneducated,50000
+34,College,30000
+55,Doctorate,70000
+61,Post-Graduate,30000
+44,Graduate,30000
+54,Graduate,100000
+39,High School,100000
+37,High School,50000
+47,Graduate,50000
+56,Uneducated,130000
+53,Graduate,100000
+62,Graduate,50000
+58,Graduate,30000
+57,High School,100000
+33,College,50000
+54,Graduate,30000
+30,Graduate,70000
+36,High School,30000
+60,Graduate,70000
+46,High School,30000
+55,Graduate,100000
+55,High School,100000
+31,Uneducated,30000
+55,Uneducated,30000
+36,Post-Graduate,50000
+33,Graduate,30000
+30,Post-Graduate,50000
+54,Graduate,50000
+53,Uneducated,100000
+59,Graduate,100000
+41,College,130000
+45,Uneducated,50000
+50,Graduate,30000
+57,Uneducated,70000
+63,Doctorate,50000
+35,Graduate,70000
+53,High School,130000
+33,College,30000
+38,Uneducated,100000
+31,High School,30000
+37,Graduate,70000
+36,Uneducated,100000
+58,Post-Graduate,30000
+39,Graduate,30000
+55,Graduate,100000
+50,Uneducated,30000
+33,High School,50000
+63,High School,100000
+54,High School,50000
+41,Graduate,70000
+51,Doctorate,100000
+52,Post-Graduate,30000
+34,Post-Graduate,100000
+64,High School,30000
+62,Uneducated,50000
+38,Graduate,100000
+52,Graduate,30000
+35,Doctorate,50000
+35,Graduate,130000
+54,College,100000
+35,Doctorate,70000
+33,Graduate,50000
+53,Graduate,70000
+37,Uneducated,30000
+35,Graduate,130000
+59,Graduate,50000
+48,High School,50000
+58,Uneducated,100000
+37,Graduate,50000
+57,Graduate,100000
+50,College,70000
+56,High School,70000
+48,Graduate,70000
+40,Graduate,70000
+48,Graduate,100000
+50,Uneducated,30000
+61,Uneducated,30000
+36,High School,100000
+46,High School,130000
+44,High School,50000
+57,High School,100000
+37,Uneducated,100000
+57,Uneducated,100000
+46,High School,70000
+55,Graduate,100000
+53,High School,130000
+33,High School,130000
+39,Graduate,130000
+37,High School,30000
+32,Uneducated,50000
+60,Graduate,30000
+37,Graduate,100000
+43,Graduate,30000
+56,Uneducated,100000
+52,College,100000
+34,Uneducated,130000
+26,Graduate,30000
+54,High School,130000
+35,Uneducated,30000
+41,Graduate,70000
+36,Uneducated,30000
+53,Graduate,30000
+54,College,70000
+53,Post-Graduate,100000
+36,High School,100000
+42,Graduate,70000
+27,College,30000
+58,Graduate,70000
+59,Uneducated,50000
+63,Graduate,30000
+57,Uneducated,100000
+29,High School,30000
+33,College,50000
+35,Graduate,100000
+33,Graduate,30000
+46,Graduate,100000
+42,College,130000
+53,Graduate,70000
+50,Graduate,130000
+48,College,50000
+57,High School,70000
+34,Graduate,30000
+55,College,100000
+58,Graduate,130000
+55,Graduate,30000
+48,Uneducated,30000
+45,College,50000
+59,Uneducated,30000
+53,Post-Graduate,50000
+47,Uneducated,100000
+33,Post-Graduate,30000
+54,Graduate,30000
+65,High School,30000
+49,Graduate,50000
+51,High School,100000
+36,High School,100000
+36,Graduate,70000
+46,Graduate,50000
+30,College,30000
+46,Graduate,130000
+41,Uneducated,100000
+50,Uneducated,50000
+55,Uneducated,130000
+49,High School,30000
+56,Graduate,70000
+63,Graduate,50000
+41,High School,100000
+44,College,130000
+38,Graduate,30000
+52,Graduate,100000
+54,Uneducated,30000
+58,High School,50000
+26,College,30000
+27,Post-Graduate,30000
+32,Uneducated,70000
+58,College,30000
+45,Uneducated,30000
+48,High School,30000
+38,Post-Graduate,70000
+54,High School,100000
+40,Graduate,30000
+35,Uneducated,30000
+31,College,100000
+40,College,50000
+52,Graduate,100000
+57,High School,30000
+48,Graduate,100000
+49,High School,100000
+40,High School,50000
+45,Graduate,50000
+36,Graduate,100000
+37,Graduate,30000
+44,College,50000
+52,College,130000
+42,High School,30000
+62,Graduate,30000
+49,Post-Graduate,100000
+30,Graduate,30000
+50,Uneducated,70000
+32,High School,70000
+32,Graduate,30000
+49,Post-Graduate,70000
+37,Doctorate,130000
+48,Uneducated,70000
+33,Post-Graduate,50000
+36,College,70000
+36,High School,30000
+56,High School,50000
+28,High School,30000
+31,Uneducated,30000
+44,Uneducated,30000
+55,Graduate,50000
+34,Doctorate,30000
+61,Graduate,50000
+37,Uneducated,70000
+46,Graduate,50000
+47,Uneducated,30000
+54,Graduate,50000
+36,High School,30000
+37,Graduate,70000
+47,College,50000
+64,High School,30000
+48,Graduate,100000
+35,Uneducated,70000
+49,Uneducated,100000
+53,Graduate,30000
+56,High School,100000
+41,College,70000
+37,High School,70000
+30,High School,30000
+45,Post-Graduate,100000
+54,High School,70000
+46,Graduate,70000
+36,College,30000
+48,Doctorate,130000
+59,Doctorate,30000
+60,Uneducated,100000
+44,Graduate,70000
+65,College,30000
+46,Graduate,50000
+48,Graduate,100000
+53,High School,130000
+41,High School,100000
+37,High School,50000
+29,High School,30000
+49,Doctorate,30000
+47,Doctorate,30000
+33,Graduate,70000
+34,Graduate,70000
+36,Graduate,50000
+30,Graduate,30000
+34,High School,50000
+38,College,50000
+39,Post-Graduate,30000
+36,Doctorate,50000
+45,Uneducated,70000
+38,Uneducated,30000
+31,Graduate,50000
+65,High School,30000
+63,Graduate,30000
+65,Graduate,30000
+51,Graduate,50000
+37,Graduate,70000
+27,Uneducated,70000
+34,High School,50000
+32,College,30000
+49,Uneducated,30000
+39,High School,100000
+42,Doctorate,100000
+55,College,100000
+57,Graduate,50000
+53,Graduate,130000
+51,Graduate,100000
+47,Graduate,30000
+26,High School,50000
+37,High School,50000
+45,Uneducated,50000
+55,Uneducated,70000
+37,Graduate,130000
+36,Graduate,30000
+36,High School,30000
+39,High School,70000
+47,Uneducated,70000
+56,Graduate,30000
+49,Graduate,130000
+36,Uneducated,30000
+51,High School,30000
+26,College,50000
+34,Graduate,100000
+56,High School,50000
+43,Graduate,130000
+42,High School,30000
+38,College,100000
+55,Post-Graduate,70000
+62,Uneducated,50000
+52,Doctorate,130000
+29,Post-Graduate,30000
+48,Doctorate,70000
+43,Uneducated,100000
+49,Post-Graduate,30000
+43,High School,100000
+41,Uneducated,50000
+43,Graduate,100000
+51,Graduate,30000
+37,Doctorate,100000
+37,College,50000
+49,High School,100000
+36,Uneducated,100000
+50,Graduate,30000
+45,High School,130000
+41,Graduate,100000
+47,Graduate,100000
+39,Post-Graduate,100000
+51,Uneducated,130000
+55,High School,50000
+57,Graduate,130000
+36,Doctorate,130000
+39,Graduate,50000
+65,Graduate,50000
+51,Uneducated,30000
+50,High School,30000
+38,Graduate,70000
+41,Uneducated,50000
+40,Graduate,30000
+46,Uneducated,30000
+49,Graduate,30000
+49,Graduate,100000
+38,Graduate,100000
+52,Graduate,100000
+40,Graduate,100000
+36,Uneducated,100000
+53,High School,30000
+54,Graduate,50000
+34,College,70000
+50,Graduate,130000
+36,Uneducated,130000
+56,Graduate,30000
+44,Graduate,50000
+45,College,30000
+36,Graduate,130000
+44,Uneducated,30000
+52,Graduate,100000
+50,Graduate,30000
+53,Graduate,30000
+27,College,30000
+41,High School,70000
+28,Uneducated,70000
+59,High School,50000
+43,Uneducated,100000
+46,Graduate,70000
+44,High School,30000
+40,Graduate,70000
+32,High School,50000
+48,Uneducated,50000
+37,High School,30000
+41,Uneducated,100000
+51,Graduate,50000
+52,Doctorate,100000
+61,High School,70000
+49,Post-Graduate,130000
+35,Graduate,50000
+63,High School,30000
+36,Post-Graduate,30000
+33,Graduate,30000
+33,Graduate,100000
+61,Graduate,70000
+44,Graduate,100000
+38,Doctorate,100000
+41,Uneducated,100000
+44,Uneducated,30000
+37,Post-Graduate,100000
+65,Uneducated,30000
+37,Graduate,50000
+46,Graduate,100000
+51,Graduate,100000
+50,High School,30000
+53,Graduate,100000
+54,Post-Graduate,70000
+47,High School,30000
+52,Graduate,30000
+43,Graduate,30000
+41,Uneducated,100000
+34,Post-Graduate,70000
+33,College,30000
+49,High School,70000
+44,Doctorate,130000
+36,Uneducated,100000
+37,High School,100000
+65,Uneducated,30000
+52,College,100000
+50,Uneducated,130000
+59,Uneducated,30000
+40,Graduate,70000
+40,High School,30000
+59,Doctorate,70000
+52,College,50000
+48,Graduate,70000
+45,Graduate,30000
+30,Graduate,30000
+41,High School,50000
+46,Graduate,130000
+31,College,30000
+48,High School,70000
+53,High School,100000
+45,Graduate,50000
+46,Graduate,130000
+34,Graduate,100000
+39,Uneducated,30000
+53,Uneducated,30000
+51,Graduate,70000
+44,Doctorate,50000
+49,High School,130000
+56,College,30000
+52,High School,130000
+35,College,70000
+48,Graduate,100000
+53,Graduate,50000
+38,Uneducated,70000
+50,College,30000
+46,Uneducated,30000
+48,Graduate,100000
+36,Graduate,70000
+41,Post-Graduate,30000
+36,College,70000
+49,Graduate,30000
+43,High School,130000
+58,High School,70000
+46,High School,100000
+50,Graduate,100000
+43,Graduate,70000
+57,College,50000
+51,Doctorate,130000
+46,College,100000
+52,College,100000
+48,Graduate,100000
+49,High School,100000
+47,Uneducated,50000
+41,Post-Graduate,30000
+44,High School,100000
+35,Uneducated,30000
+32,High School,30000
+38,College,70000
+39,High School,130000
+48,Graduate,30000
+52,College,30000
+49,Graduate,70000
+46,Graduate,30000
+38,Doctorate,30000
+60,College,100000
+48,High School,100000
+45,Graduate,30000
+43,Doctorate,50000
+41,Graduate,50000
+50,Post-Graduate,130000
+56,Graduate,100000
+63,Uneducated,50000
+53,High School,30000
+35,High School,30000
+51,College,100000
+51,Graduate,30000
+38,Graduate,70000
+48,Graduate,100000
+42,High School,30000
+50,Graduate,130000
+54,Graduate,30000
+38,High School,70000
+55,Post-Graduate,100000
+46,High School,70000
+50,Uneducated,70000
+40,Graduate,30000
+32,High School,70000
+49,Graduate,70000
+53,Post-Graduate,100000
+57,Graduate,100000
+64,Graduate,30000
+43,Uneducated,130000
+42,Doctorate,30000
+48,Uneducated,130000
+49,High School,130000
+57,College,70000
+44,Graduate,50000
+63,Graduate,30000
+43,Graduate,70000
+33,High School,50000
+55,Graduate,100000
+50,Graduate,100000
+48,Post-Graduate,130000
+47,High School,30000
+35,Uneducated,30000
+31,Graduate,30000
+50,Uneducated,100000
+38,Graduate,100000
+39,Graduate,70000
+52,High School,30000
+49,Graduate,50000
+49,Uneducated,50000
+44,High School,70000
+36,Graduate,130000
+44,Graduate,70000
+35,Uneducated,70000
+45,Graduate,100000
+56,College,100000
+37,Graduate,30000
+48,Uneducated,30000
+54,Graduate,100000
+46,Post-Graduate,70000
+44,Graduate,70000
+38,Graduate,70000
+55,Post-Graduate,30000
+42,Graduate,30000
+49,Uneducated,30000
+31,Graduate,30000
+47,High School,30000
+30,Graduate,30000
+45,High School,30000
+51,Post-Graduate,50000
+28,Uneducated,30000
+44,High School,30000
+55,College,130000
+49,Graduate,70000
+34,High School,30000
+42,Graduate,100000
+53,Uneducated,50000
+53,High School,70000
+32,High School,50000
+35,Graduate,70000
+45,Graduate,100000
+45,College,100000
+43,Graduate,30000
+38,Graduate,70000
+39,Uneducated,30000
+44,High School,100000
+63,College,50000
+39,Graduate,70000
+52,High School,130000
+57,High School,30000
+36,High School,130000
+42,College,30000
+52,Graduate,50000
+40,Graduate,30000
+40,College,30000
+44,High School,70000
+43,Graduate,130000
+45,Graduate,70000
+38,College,70000
+36,Graduate,100000
+53,Uneducated,50000
+49,Uneducated,50000
+37,High School,130000
+44,Graduate,100000
+37,High School,70000
+57,Post-Graduate,50000
+59,College,30000
+39,Graduate,30000
+59,Graduate,50000
+63,High School,70000
+36,High School,100000
+64,Graduate,30000
+39,Graduate,100000
+50,High School,30000
+45,Uneducated,70000
+47,Graduate,50000
+40,Graduate,30000
+52,High School,70000
+46,College,70000
+52,High School,100000
+45,Graduate,70000
+59,Graduate,70000
+47,Uneducated,130000
+55,College,30000
+40,Graduate,50000
+52,High School,30000
+59,Graduate,30000
+59,Graduate,70000
+41,High School,70000
+38,Post-Graduate,100000
+44,High School,50000
+42,Uneducated,30000
+48,Graduate,30000
+34,Uneducated,130000
+50,Uneducated,30000
+41,Uneducated,100000
+50,Graduate,50000
+49,High School,130000
+45,Graduate,30000
+47,High School,70000
+43,Graduate,100000
+39,Uneducated,50000
+36,Uneducated,130000
+41,High School,30000
+42,Graduate,50000
+48,Doctorate,100000
+46,Graduate,100000
+46,Graduate,50000
+52,Uneducated,130000
+56,Uneducated,70000
+41,High School,100000
+51,Graduate,50000
+51,Graduate,70000
+41,Graduate,70000
+57,Graduate,70000
+44,Graduate,130000
+52,Uneducated,130000
+49,High School,70000
+63,High School,70000
+44,College,70000
+53,Uneducated,70000
+49,Graduate,70000
+35,High School,100000
+45,College,50000
+36,College,70000
+42,Post-Graduate,50000
+46,Graduate,130000
+49,Uneducated,50000
+50,High School,50000
+57,Doctorate,30000
+55,High School,130000
+38,College,50000
+35,Graduate,30000
+48,Doctorate,70000
+57,Graduate,50000
+47,Graduate,100000
+37,College,50000
+48,Uneducated,30000
+49,Post-Graduate,70000
+48,Graduate,30000
+52,Graduate,50000
+44,Uneducated,50000
+45,Post-Graduate,30000
+44,Graduate,50000
+42,Doctorate,100000
+43,Graduate,100000
+62,Graduate,70000
+46,Graduate,50000
+42,Graduate,100000
+39,College,100000
+59,Graduate,50000
+43,Doctorate,100000
+48,Uneducated,30000
+55,College,100000
+48,High School,100000
+36,Doctorate,50000
+49,High School,70000
+40,High School,100000
+54,Doctorate,30000
+40,Uneducated,130000
+63,College,100000
+44,Uneducated,30000
+44,High School,100000
+36,College,30000
+45,Graduate,50000
+44,Uneducated,30000
+35,Doctorate,50000
+55,Graduate,130000
+61,Graduate,50000
+43,Graduate,30000
+51,High School,50000
+64,Graduate,30000
+49,Graduate,100000
+54,Graduate,30000
+46,High School,70000
+46,Graduate,100000
+48,Uneducated,50000
+45,High School,70000
+65,Uneducated,30000
+45,Graduate,50000
+50,High School,30000
+40,Post-Graduate,70000
+38,High School,130000
+36,Graduate,30000
+54,High School,50000
+50,High School,70000
+50,High School,100000
+41,High School,100000
+46,Graduate,70000
+50,Graduate,130000
+45,Graduate,100000
+40,College,30000
+46,Uneducated,30000
+47,High School,50000
+42,Graduate,100000
+45,Graduate,50000
+40,Graduate,100000
+40,Graduate,100000
+49,Graduate,50000
+51,Uneducated,130000
+45,Graduate,100000
+38,College,100000
+49,College,50000
+45,Graduate,30000
+63,Graduate,30000
+43,Graduate,50000
+50,High School,50000
+47,High School,30000
+63,Graduate,70000
+30,Post-Graduate,30000
+41,Doctorate,70000
+38,Graduate,30000
+44,High School,30000
+50,Uneducated,100000
+46,College,30000
+53,Graduate,30000
+54,Post-Graduate,130000
+50,College,100000
+51,Graduate,30000
+63,High School,30000
+54,Graduate,50000
+51,Uneducated,70000
+60,Graduate,70000
+44,Uneducated,70000
+33,Graduate,70000
+40,Uneducated,50000
+52,College,70000
+39,Graduate,70000
+46,College,70000
+44,Graduate,50000
+62,Doctorate,30000
+53,Uneducated,100000
+47,Graduate,50000
+45,Graduate,100000
+42,Graduate,70000
+47,Graduate,50000
+41,Graduate,30000
+47,Doctorate,50000
+56,High School,30000
+54,Graduate,100000
+42,Graduate,50000
+39,Graduate,30000
+45,Graduate,30000
+52,Graduate,130000
+48,High School,100000
+46,High School,70000
+50,Graduate,30000
+50,Uneducated,30000
+39,Post-Graduate,50000
+51,College,130000
+48,High School,70000
+43,High School,70000
+49,Doctorate,100000
+37,Uneducated,30000
+40,Graduate,100000
+46,Graduate,100000
+50,Graduate,30000
+50,High School,100000
+48,Graduate,50000
+49,High School,30000
+59,Uneducated,30000
+45,Graduate,50000
+46,Graduate,30000
+46,College,70000
+60,High School,50000
+51,Graduate,30000
+47,Uneducated,30000
+47,High School,50000
+39,Graduate,30000
+40,Graduate,50000
+56,High School,100000
+45,Uneducated,30000
+37,Doctorate,100000
+42,Graduate,70000
+59,Uneducated,30000
+42,High School,100000
+46,High School,130000
+28,High School,30000
+47,Graduate,50000
+54,Graduate,100000
+55,College,30000
+62,Uneducated,70000
+49,Uneducated,30000
+48,Graduate,70000
+43,Graduate,30000
+51,Doctorate,100000
+48,High School,70000
+47,Doctorate,50000
+50,Graduate,100000
+56,Uneducated,50000
+47,Graduate,30000
+48,High School,30000
+40,Graduate,70000
+41,Graduate,100000
+43,High School,30000
+42,Graduate,70000
+39,Graduate,130000
+50,Doctorate,50000
+50,Uneducated,100000
+50,College,130000
+47,Doctorate,30000
+42,High School,30000
+42,Graduate,70000
+45,Graduate,100000
+50,Doctorate,70000
+53,Graduate,130000
+64,Graduate,30000
+45,College,100000
+52,High School,30000
+47,High School,100000
+38,Graduate,130000
+45,Graduate,30000
+57,High School,100000
+42,Graduate,30000
+52,Uneducated,30000
+48,Post-Graduate,30000
+44,Post-Graduate,50000
+40,High School,30000
+42,College,30000
+43,Uneducated,70000
+44,Graduate,70000
+61,Graduate,30000
+51,Graduate,100000
+40,High School,70000
+46,Doctorate,70000
+50,Uneducated,130000
+50,Graduate,130000
+46,Uneducated,70000
+52,High School,130000
+42,Graduate,30000
+47,High School,100000
+39,High School,70000
+53,Uneducated,30000
+52,High School,50000
+39,Graduate,100000
+63,Graduate,30000
+53,College,70000
+45,Uneducated,50000
+64,Graduate,30000
+45,College,50000
+41,Graduate,50000
+52,Graduate,30000
+39,Uneducated,100000
+61,Uneducated,130000
+57,Graduate,70000
+46,College,30000
+40,Graduate,50000
+57,High School,30000
+52,High School,130000
+51,Graduate,50000
+42,High School,70000
+45,Graduate,100000
+44,Uneducated,50000
+45,Graduate,70000
+55,College,130000
+63,High School,30000
+33,Graduate,30000
+46,Graduate,100000
+41,Graduate,30000
+58,Graduate,50000
+51,Doctorate,130000
+42,Graduate,30000
+45,Post-Graduate,100000
+51,High School,50000
+45,Graduate,30000
+36,College,130000
+39,Graduate,30000
+52,High School,30000
+52,Graduate,30000
+50,Graduate,100000
+43,Post-Graduate,70000
+49,High School,50000
+44,Uneducated,100000
+54,College,50000
+44,High School,70000
+49,High School,30000
+45,Graduate,50000
+35,Graduate,50000
+56,Graduate,30000
+49,Graduate,100000
+58,College,100000
+52,Graduate,100000
+45,Graduate,30000
+50,High School,70000
+62,Doctorate,50000
+44,High School,30000
+61,Graduate,30000
+47,Doctorate,30000
+46,High School,50000
+40,Graduate,30000
+47,Uneducated,50000
+52,Uneducated,30000
+46,High School,70000
+49,Post-Graduate,70000
+50,Uneducated,30000
+40,Graduate,100000
+41,Graduate,50000
+63,Graduate,70000
+32,College,100000
+55,Graduate,100000
+51,Post-Graduate,30000
+52,Doctorate,70000
+39,Doctorate,70000
+45,Graduate,70000
+43,High School,30000
+47,High School,100000
+51,High School,50000
+37,Uneducated,50000
+44,College,50000
+62,Uneducated,30000
+41,Graduate,50000
+39,Post-Graduate,70000
+40,Uneducated,130000
+46,High School,130000
+50,Graduate,50000
+32,College,30000
+43,High School,100000
+47,High School,30000
+43,Graduate,30000
+46,Doctorate,130000
+47,Graduate,30000
+48,Graduate,30000
+44,College,50000
+40,High School,100000
+46,Post-Graduate,30000
+43,College,30000
+42,Graduate,30000
+43,Graduate,30000
+40,High School,70000
+40,Doctorate,50000
+47,Graduate,100000
+50,Graduate,30000
+37,College,30000
+51,Doctorate,100000
+49,Graduate,50000
+37,Uneducated,100000
+54,Graduate,70000
+44,Graduate,130000
+43,Uneducated,70000
+49,Graduate,30000
+48,Post-Graduate,50000
+51,Uneducated,100000
+41,High School,30000
+41,High School,30000
+59,College,50000
+37,Uneducated,30000
+47,Uneducated,50000
+55,Graduate,50000
+40,Graduate,70000
+45,High School,100000
+44,High School,100000
+41,Doctorate,100000
+39,College,30000
+39,High School,100000
+44,High School,100000
+50,Uneducated,50000
+52,Graduate,130000
+50,Uneducated,70000
+43,High School,50000
+51,Graduate,100000
+59,High School,70000
+47,Uneducated,30000
+47,Uneducated,100000
+47,Uneducated,30000
+35,College,100000
+61,Post-Graduate,70000
+42,High School,100000
+52,High School,130000
+35,Graduate,30000
+50,Uneducated,100000
+40,High School,70000
+45,Uneducated,70000
+45,Uneducated,70000
+43,Graduate,100000
+41,Post-Graduate,30000
+38,Graduate,30000
+41,Uneducated,100000
+46,Graduate,30000
+61,Post-Graduate,50000
+34,High School,30000
+54,College,30000
+45,College,30000
+49,Uneducated,30000
+42,Doctorate,70000
+38,Uneducated,70000
+51,High School,30000
+38,Graduate,70000
+47,High School,100000
+51,High School,70000
+40,High School,100000
+40,Graduate,50000
+60,Uneducated,100000
+49,High School,70000
+54,Post-Graduate,30000
+50,High School,30000
+51,Graduate,70000
+48,Graduate,30000
+44,Uneducated,30000
+45,Uneducated,30000
+52,Post-Graduate,30000
+48,Graduate,50000
+57,High School,100000
+53,Graduate,130000
+61,Graduate,50000
+65,High School,50000
+43,Graduate,50000
+40,Graduate,130000
+40,College,70000
+39,Uneducated,50000
+39,Graduate,70000
+45,Post-Graduate,30000
+48,High School,70000
+38,Graduate,70000
+51,Uneducated,130000
+48,Graduate,30000
+47,Graduate,100000
+45,Post-Graduate,30000
+65,Uneducated,30000
+49,Uneducated,30000
+48,Graduate,100000
+44,Post-Graduate,30000
+45,Graduate,130000
+49,Graduate,30000
+42,Doctorate,30000
+44,Uneducated,100000
+46,Graduate,30000
+46,Uneducated,30000
+35,High School,50000
+49,Graduate,70000
+62,High School,50000
+45,Uneducated,50000
+56,Graduate,30000
+58,High School,30000
+39,High School,70000
+43,Graduate,130000
+44,Graduate,30000
+40,Graduate,30000
+49,Uneducated,100000
+64,College,30000
+47,Doctorate,50000
+64,Graduate,30000
+48,Uneducated,30000
+52,Graduate,30000
+65,Graduate,30000
+52,Graduate,70000
+42,Uneducated,100000
+37,High School,50000
+53,Graduate,30000
+51,Graduate,30000
+35,Uneducated,30000
+41,Doctorate,70000
+41,Graduate,70000
+43,Graduate,30000
+44,Graduate,30000
+46,Post-Graduate,70000
+51,Doctorate,30000
+38,College,30000
+50,Graduate,70000
+46,Graduate,30000
+47,Graduate,130000
+51,Uneducated,130000
+49,High School,70000
+54,Uneducated,30000
+57,Uneducated,70000
+47,Uneducated,70000
+37,High School,70000
+50,Doctorate,100000
+45,High School,30000
+42,Post-Graduate,50000
+45,High School,100000
+41,Graduate,70000
+44,Uneducated,30000
+41,College,100000
+53,Graduate,30000
+43,Uneducated,30000
+64,Uneducated,30000
+46,Uneducated,50000
+37,High School,30000
+46,Graduate,30000
+48,Graduate,100000
+48,High School,50000
+38,Doctorate,30000
+44,Graduate,130000
+55,College,100000
+50,Uneducated,50000
+43,Uneducated,100000
+55,Doctorate,70000
+47,High School,100000
+42,Uneducated,100000
+41,Uneducated,70000
+56,High School,30000
+50,Uneducated,50000
+41,Post-Graduate,50000
+49,Uneducated,30000
+41,High School,130000
+37,High School,30000
+44,Graduate,30000
+44,College,30000
+54,Uneducated,100000
+48,High School,30000
+41,Graduate,100000
+43,Post-Graduate,30000
+46,Uneducated,30000
+42,High School,50000
+42,High School,100000
+47,Post-Graduate,30000
+43,Graduate,30000
+49,College,70000
+43,Graduate,30000
+52,Uneducated,100000
+46,Uneducated,70000
+60,High School,50000
+38,Post-Graduate,30000
+51,Doctorate,50000
+62,Graduate,50000
+41,High School,30000
+48,Post-Graduate,130000
+43,Graduate,100000
+51,College,30000
+42,College,30000
+54,Graduate,30000
+52,Uneducated,30000
+48,Doctorate,30000
+40,Graduate,30000
+65,High School,50000
+47,Graduate,70000
+64,Graduate,50000
+58,Uneducated,100000
+39,Graduate,50000
+58,High School,130000
+51,High School,50000
+52,Uneducated,100000
+42,Graduate,100000
+62,High School,50000
+45,Uneducated,100000
+53,Uneducated,130000
+50,Uneducated,130000
+44,Post-Graduate,30000
+40,High School,100000
+55,Graduate,30000
+50,Uneducated,30000
+38,High School,50000
+45,Graduate,70000
+55,College,50000
+49,Uneducated,30000
+43,High School,50000
+48,College,30000
+51,Graduate,70000
+47,Uneducated,70000
+51,High School,50000
+49,College,30000
+53,Graduate,30000
+55,Uneducated,100000
+46,Post-Graduate,50000
+50,High School,30000
+51,Uneducated,30000
+46,High School,100000
+42,Graduate,70000
+45,High School,30000
+65,Graduate,30000
+46,Graduate,100000
+44,Post-Graduate,130000
+50,Graduate,70000
+54,High School,30000
+40,Uneducated,100000
+51,College,30000
+64,Uneducated,30000
+43,High School,30000
+46,Graduate,100000
+44,High School,100000
+44,Doctorate,100000
+40,Post-Graduate,70000
+43,High School,70000
+58,Graduate,130000
+47,College,70000
+49,Graduate,130000
+42,High School,130000
+55,High School,30000
+60,Post-Graduate,50000
+48,Graduate,30000
+50,High School,50000
+41,Uneducated,30000
+51,Uneducated,30000
+47,Graduate,70000
+47,Uneducated,70000
+41,Graduate,50000
+38,Graduate,50000
+41,Graduate,30000
+40,College,100000
+43,Graduate,30000
+36,College,30000
+48,Post-Graduate,30000
+41,Graduate,50000
+47,Graduate,50000
+44,High School,100000
+46,Graduate,30000
+53,Graduate,100000
+44,College,100000
+46,Doctorate,100000
+39,Graduate,130000
+51,Graduate,70000
+49,Graduate,30000
+47,Uneducated,130000
+44,College,100000
+41,Post-Graduate,130000
+52,Graduate,30000
+48,College,100000
+50,College,70000
+51,High School,70000
+43,Graduate,70000
+40,Graduate,70000
+48,Post-Graduate,50000
+44,Graduate,30000
+42,Uneducated,70000
+54,Graduate,30000
+58,High School,30000
+48,College,50000
+51,High School,30000
+43,College,30000
+58,Uneducated,30000
+46,Graduate,100000
+44,Uneducated,30000
+45,Uneducated,30000
+48,Graduate,50000
+39,Graduate,30000
+56,Graduate,30000
+54,Graduate,70000
+47,High School,70000
+44,Uneducated,30000
+52,Uneducated,100000
+42,High School,70000
+55,High School,30000
+49,High School,100000
+38,College,70000
+42,Graduate,100000
+38,Graduate,30000
+46,High School,50000
+42,Doctorate,30000
+65,Doctorate,30000
+48,High School,130000
+53,Graduate,30000
+57,Graduate,70000
+50,High School,70000
+41,Graduate,100000
+46,College,30000
+49,High School,70000
+54,Post-Graduate,130000
+51,College,30000
+52,Uneducated,70000
+43,Graduate,30000
+44,High School,100000
+44,High School,50000
+51,High School,70000
+51,Uneducated,30000
+55,Graduate,30000
+42,High School,50000
+53,Uneducated,70000
+43,Graduate,100000
+51,Graduate,70000
+56,High School,100000
+55,Graduate,30000
+41,Graduate,50000
+45,Graduate,70000
+65,College,30000
+46,College,100000
+52,Graduate,70000
+49,College,100000
+50,Graduate,50000
+50,High School,30000
+27,Graduate,30000
+37,Graduate,30000
+42,Post-Graduate,30000
+37,Uneducated,30000
+49,High School,30000
+42,Uneducated,50000
+48,High School,50000
+52,Graduate,50000
+49,High School,100000
+38,College,50000
+50,High School,50000
+65,Uneducated,30000
+50,College,50000
+46,College,100000
+43,High School,70000
+42,Graduate,130000
+45,High School,50000
+55,Graduate,30000
+50,Graduate,70000
+54,Uneducated,50000
+45,High School,50000
+39,Graduate,30000
+45,High School,30000
+52,College,50000
+33,Graduate,30000
+40,Graduate,50000
+61,Uneducated,50000
+48,High School,50000
+50,Graduate,70000
+50,Graduate,50000
+53,Graduate,100000
+45,Graduate,70000
+52,College,30000
+45,Doctorate,30000
+50,Post-Graduate,30000
+50,Uneducated,50000
+46,Uneducated,30000
+52,Uneducated,100000
+54,Graduate,100000
+53,College,100000
+53,Graduate,130000
+40,Uneducated,130000
+45,College,130000
+40,Graduate,50000
+36,Uneducated,50000
+35,Graduate,50000
+47,High School,30000
+45,College,30000
+48,High School,100000
+59,Graduate,130000
+44,College,70000
+38,Post-Graduate,100000
+43,Graduate,70000
+50,Doctorate,30000
+45,High School,70000
+47,High School,100000
+49,Graduate,100000
+43,Uneducated,30000
+43,Graduate,70000
+48,Doctorate,100000
+59,Uneducated,50000
+53,Graduate,50000
+53,Graduate,50000
+42,Doctorate,30000
+50,High School,70000
+45,Graduate,30000
+49,High School,70000
+55,College,30000
+46,Uneducated,30000
+49,Doctorate,30000
+48,High School,50000
+50,Uneducated,70000
+50,Post-Graduate,50000
+45,College,100000
+57,High School,100000
+50,Graduate,30000
+42,High School,50000
+37,College,100000
+54,Uneducated,70000
+43,Graduate,100000
+52,Graduate,100000
+46,College,70000
+46,High School,30000
+55,Uneducated,50000
+48,Doctorate,70000
+50,High School,30000
+46,High School,100000
+52,Uneducated,130000
+49,Graduate,130000
+55,Graduate,30000
+49,Graduate,70000
+44,Doctorate,30000
+41,Uneducated,30000
+47,College,30000
+38,Graduate,100000
+52,Graduate,70000
+41,High School,30000
+53,Uneducated,70000
+40,Graduate,70000
+61,High School,50000
+56,Graduate,50000
+57,Graduate,30000
+48,Graduate,50000
+60,Graduate,100000
+65,Doctorate,50000
+51,High School,30000
+40,Graduate,30000
+55,College,130000
+52,Uneducated,130000
+44,Graduate,30000
+49,College,30000
+42,Graduate,70000
+56,Graduate,30000
+60,Uneducated,30000
+50,High School,130000
+42,Graduate,100000
+57,Uneducated,30000
+48,Graduate,130000
+47,College,100000
+62,Graduate,30000
+46,High School,100000
+41,High School,70000
+43,Graduate,50000
+54,Graduate,50000
+45,Graduate,30000
+49,Uneducated,70000
+46,Graduate,100000
+45,Graduate,30000
+49,High School,100000
+33,Graduate,30000
+52,Graduate,100000
+40,Uneducated,30000
+44,Post-Graduate,30000
+62,High School,30000
+55,Uneducated,30000
+55,Graduate,50000
+38,Uneducated,30000
+52,Graduate,30000
+52,High School,130000
+55,College,30000
+48,College,70000
+48,Uneducated,50000
+50,Graduate,30000
+53,High School,50000
+46,Post-Graduate,130000
+50,Graduate,30000
+47,Uneducated,100000
+47,Graduate,30000
+52,Uneducated,100000
+44,Graduate,30000
+35,High School,30000
+50,College,100000
+52,High School,50000
+43,High School,100000
+54,Uneducated,130000
+55,Graduate,30000
+49,Uneducated,70000
+56,Post-Graduate,30000
+49,Uneducated,30000
+53,High School,130000
+49,High School,100000
+46,High School,50000
+49,Uneducated,130000
+36,High School,30000
+57,Graduate,100000
+52,Graduate,100000
+45,Uneducated,30000
+54,High School,130000
+49,High School,100000
+43,Graduate,70000
+50,Uneducated,70000
+46,High School,130000
+45,High School,30000
+33,Graduate,70000
+56,Graduate,30000
+40,High School,70000
+49,College,30000
+45,Doctorate,30000
+51,High School,100000
+40,Graduate,30000
+42,College,50000
+45,High School,30000
+47,Graduate,30000
+47,College,50000
+43,Graduate,130000
+43,Post-Graduate,70000
+48,Graduate,30000
+53,Uneducated,70000
+56,Graduate,100000
+64,Graduate,30000
+50,Uneducated,130000
+62,Graduate,100000
+41,Graduate,70000
+43,Graduate,100000
+48,High School,70000
+64,Graduate,50000
+53,High School,30000
+38,Graduate,30000
+51,Post-Graduate,30000
+52,High School,100000
+40,High School,50000
+49,High School,100000
+40,Post-Graduate,30000
+43,College,50000
+48,Graduate,100000
+50,Graduate,130000
+48,High School,100000
+46,Graduate,70000
+51,Graduate,50000
+46,High School,30000
+42,Graduate,30000
+44,Uneducated,30000
+55,Uneducated,30000
+54,College,30000
+46,Uneducated,70000
+45,Graduate,30000
+37,High School,100000
+52,Graduate,70000
+45,Graduate,30000
+47,Graduate,130000
+59,Graduate,50000
+46,Graduate,30000
+57,Graduate,130000
+35,Graduate,100000
+37,Graduate,100000
+43,Graduate,130000
+43,Graduate,70000
+55,Uneducated,70000
+52,Graduate,30000
+46,High School,50000
+53,College,50000
+49,Uneducated,100000
+44,Graduate,100000
+46,Graduate,50000
+43,High School,30000
+28,Graduate,30000
+49,Uneducated,50000
+42,High School,30000
+43,Graduate,30000
+51,Post-Graduate,130000
+48,Post-Graduate,70000
+40,Uneducated,30000
+51,Uneducated,30000
+44,Graduate,70000
+58,Uneducated,30000
+47,Graduate,30000
+48,Uneducated,100000
+46,Graduate,70000
+33,High School,50000
+47,High School,30000
+55,High School,30000
+48,Uneducated,100000
+41,Uneducated,70000
+39,Doctorate,70000
+46,Uneducated,50000
+49,Graduate,30000
+46,Doctorate,100000
+46,Graduate,30000
+48,High School,30000
+52,Graduate,130000
+37,Graduate,50000
+42,High School,30000
+48,Graduate,30000
+52,Doctorate,50000
+40,High School,130000
+39,Uneducated,50000
+42,Graduate,50000
+41,High School,50000
+53,Graduate,30000
+49,High School,50000
+52,Uneducated,70000
+29,High School,30000
+48,High School,30000
+45,High School,70000
+41,Graduate,100000
+45,Graduate,100000
+40,Graduate,50000
+48,Graduate,30000
+43,Uneducated,30000
+38,Uneducated,50000
+49,College,30000
+39,College,30000
+38,High School,30000
+52,High School,70000
+42,Graduate,30000
+50,High School,30000
+52,Graduate,50000
+45,High School,50000
+37,High School,50000
+42,Uneducated,70000
+43,Uneducated,30000
+40,Graduate,100000
+54,Doctorate,70000
+42,Uneducated,30000
+39,Graduate,50000
+54,College,30000
+47,Post-Graduate,50000
+54,Uneducated,70000
+49,Doctorate,30000
+46,College,30000
+38,High School,30000
+43,Graduate,30000
+62,Graduate,70000
+59,Graduate,30000
+45,Graduate,30000
+43,Graduate,70000
+50,Uneducated,30000
+31,High School,30000
+50,High School,50000
+38,Graduate,30000
+58,College,100000
+49,Uneducated,70000
+37,Uneducated,100000
+47,Graduate,30000
+47,Graduate,50000
+43,College,130000
+32,Uneducated,30000
+63,College,30000
+61,Graduate,30000
+48,High School,70000
+49,High School,130000
+49,Graduate,100000
+35,Graduate,30000
+53,Doctorate,30000
+51,Uneducated,100000
+65,Uneducated,30000
+62,High School,30000
+43,Uneducated,30000
+51,College,100000
+43,High School,30000
+49,Post-Graduate,100000
+39,Graduate,30000
+37,Uneducated,50000
+40,Graduate,30000
+46,Uneducated,100000
+52,High School,100000
+58,College,30000
+49,Uneducated,30000
+51,High School,70000
+57,Graduate,30000
+56,High School,30000
+42,Post-Graduate,70000
+48,Doctorate,50000
+45,Doctorate,100000
+47,Graduate,70000
+44,Uneducated,30000
+55,Graduate,100000
+43,Graduate,100000
+35,Doctorate,50000
+49,High School,50000
+44,Graduate,100000
+42,High School,130000
+39,Graduate,30000
+44,Graduate,70000
+56,Graduate,30000
+46,College,100000
+50,College,70000
+43,College,70000
+45,Uneducated,30000
+39,Graduate,30000
+45,High School,30000
+55,Graduate,30000
+49,College,30000
+46,Graduate,30000
+42,Graduate,30000
+45,Graduate,100000
+59,Graduate,30000
+49,Graduate,30000
+47,Graduate,30000
+58,High School,30000
+48,College,30000
+46,College,100000
+51,Graduate,30000
+51,Post-Graduate,100000
+56,Graduate,100000
+50,High School,30000
+53,College,30000
+46,Graduate,50000
+39,Uneducated,30000
+50,Graduate,30000
+55,Graduate,100000
+50,College,100000
+45,High School,70000
+42,College,100000
+50,High School,30000
+50,Graduate,30000
+51,Uneducated,30000
+48,Post-Graduate,30000
+43,High School,130000
+37,High School,30000
+45,High School,100000
+44,High School,30000
+60,Uneducated,50000
+58,Post-Graduate,30000
+42,Graduate,50000
+61,High School,50000
+56,High School,70000
+44,Graduate,70000
+39,Graduate,70000
+44,College,70000
+47,Graduate,100000
+49,Post-Graduate,30000
+42,Graduate,50000
+44,High School,50000
+45,Uneducated,30000
+51,High School,70000
+57,High School,30000
+64,Graduate,30000
+37,Graduate,100000
+53,Graduate,30000
+50,High School,30000
+45,Graduate,30000
+43,High School,100000
+50,High School,30000
+42,College,50000
+49,Graduate,100000
+50,Graduate,50000
+49,College,50000
+43,Graduate,100000
+60,College,30000
+49,Graduate,50000
+42,College,50000
+42,College,100000
+43,Graduate,130000
+42,Doctorate,30000
+43,Uneducated,70000
+47,High School,70000
+56,Uneducated,100000
+56,Doctorate,100000
+43,High School,30000
+44,Graduate,70000
+42,High School,30000
+49,High School,30000
+48,High School,100000
+44,Doctorate,130000
+42,Doctorate,30000
+50,Uneducated,30000
+35,High School,30000
+47,High School,70000
+41,Post-Graduate,100000
+43,College,130000
+42,Graduate,30000
+49,Doctorate,50000
+46,Uneducated,130000
+51,Graduate,30000
+47,Graduate,70000
+47,High School,70000
+40,Post-Graduate,50000
+43,Graduate,30000
+48,Graduate,30000
+54,Graduate,30000
+41,Graduate,30000
+40,College,50000
+33,Doctorate,130000
+47,High School,30000
+46,College,70000
+44,Doctorate,30000
+51,Graduate,100000
+48,Graduate,30000
+51,High School,30000
+48,Graduate,30000
+35,High School,50000
+35,Graduate,30000
+51,Graduate,30000
+50,High School,30000
+31,Post-Graduate,30000
+42,Graduate,70000
+45,Graduate,30000
+45,High School,50000
+53,Uneducated,130000
+51,High School,100000
+38,Uneducated,50000
+55,Graduate,30000
+47,Graduate,30000
+38,Graduate,100000
+52,Uneducated,130000
+42,High School,30000
+35,College,30000
+48,College,30000
+41,High School,130000
+49,Graduate,50000
+54,Graduate,100000
+53,College,30000
+51,Graduate,70000
+59,Graduate,30000
+65,College,50000
+47,High School,50000
+42,High School,30000
+51,Uneducated,30000
+50,Graduate,30000
+57,Graduate,50000
+48,Post-Graduate,70000
+47,Doctorate,30000
+37,High School,70000
+63,Graduate,70000
+62,High School,30000
+50,Graduate,30000
+39,Graduate,30000
+40,Uneducated,30000
+39,College,130000
+65,Graduate,50000
+32,Graduate,30000
+47,Post-Graduate,50000
+48,Graduate,70000
+45,College,100000
+62,Graduate,130000
+45,High School,30000
+41,Graduate,50000
+50,High School,130000
+46,Uneducated,70000
+42,Uneducated,30000
+41,Uneducated,30000
+65,Uneducated,30000
+55,Uneducated,70000
+46,Graduate,30000
+58,Doctorate,30000
+42,Uneducated,30000
+38,Graduate,50000
+29,Uneducated,30000
+55,Graduate,30000
+57,High School,30000
+45,Graduate,30000
+47,Doctorate,30000
+43,High School,30000
+64,High School,30000
+52,Graduate,30000
+61,High School,70000
+40,Uneducated,30000
+45,Graduate,30000
+43,Graduate,30000
+39,High School,50000
+40,High School,50000
+51,Graduate,50000
+38,Graduate,130000
+53,Post-Graduate,100000
+40,Uneducated,30000
+45,Graduate,70000
+41,Graduate,50000
+44,College,30000
+39,Graduate,50000
+50,Uneducated,30000
+44,Graduate,30000
+56,Post-Graduate,30000
+63,Uneducated,50000
+40,Graduate,30000
+53,Uneducated,50000
+44,Uneducated,30000
+41,Graduate,130000
+45,High School,30000
+40,Post-Graduate,30000
+52,Uneducated,130000
+49,High School,30000
+47,Graduate,100000
+42,Graduate,30000
+41,Graduate,30000
+43,High School,130000
+40,Graduate,30000
+45,High School,30000
+43,High School,130000
+46,Uneducated,50000
+41,Doctorate,30000
+38,Post-Graduate,30000
+35,Uneducated,30000
+49,Graduate,30000
+47,Graduate,30000
+48,High School,100000
+50,Graduate,30000
+44,Uneducated,70000
+37,Graduate,50000
+51,Graduate,130000
+36,Graduate,50000
+59,Doctorate,30000
+50,High School,30000
+39,Post-Graduate,50000
+43,College,100000
+41,Graduate,30000
+54,College,50000
+55,Graduate,30000
+49,Graduate,30000
+41,Graduate,50000
+51,High School,30000
+52,Uneducated,100000
+50,Uneducated,70000
+43,Graduate,70000
+34,Graduate,50000
+49,Graduate,30000
+54,Graduate,100000
+44,Graduate,30000
+46,College,30000
+53,Uneducated,130000
+39,Graduate,70000
+49,Doctorate,30000
+52,College,30000
+40,High School,100000
+49,College,30000
+46,Graduate,70000
+59,Uneducated,70000
+45,Graduate,30000
+44,Graduate,30000
+64,College,30000
+49,Graduate,50000
+51,Graduate,30000
+41,Graduate,30000
+41,High School,100000
+39,Uneducated,100000
+41,Graduate,30000
+44,Graduate,30000
+43,Graduate,100000
+61,Doctorate,70000
+38,Graduate,100000
+48,High School,30000
+53,College,70000
+50,High School,100000
+30,Graduate,30000
+41,Uneducated,100000
+55,High School,30000
+43,Post-Graduate,30000
+48,Graduate,70000
+41,Post-Graduate,50000
+47,High School,30000
+47,College,30000
+51,Graduate,100000
+53,College,30000
+47,High School,30000
+51,Graduate,130000
+49,College,70000
+35,Uneducated,30000
+40,Graduate,30000
+44,College,70000
+46,Uneducated,70000
+40,High School,100000
+43,High School,50000
+64,Graduate,30000
+42,Uneducated,30000
+50,High School,30000
+52,Uneducated,30000
+46,Graduate,50000
+39,College,100000
+44,Graduate,100000
+57,College,50000
+53,Uneducated,30000
+43,Uneducated,30000
+48,College,30000
+47,Graduate,100000
+50,College,30000
+47,College,30000
+47,College,70000
+47,Doctorate,70000
+44,Uneducated,100000
+41,Uneducated,30000
+47,Uneducated,30000
+47,Uneducated,50000
+41,Graduate,70000
+54,Doctorate,30000
+44,Graduate,100000
+44,High School,30000
+49,Uneducated,70000
+47,Post-Graduate,50000
+44,High School,30000
+42,Uneducated,50000
+42,High School,70000
+40,Uneducated,50000
+47,Graduate,30000
+44,Uneducated,50000
+60,Uneducated,30000
+41,High School,50000
+42,Uneducated,30000
+54,High School,50000
+45,College,30000
+49,High School,70000
+42,Post-Graduate,30000
+53,Graduate,100000
+45,Graduate,30000
+41,Uneducated,30000
+51,Uneducated,100000
+45,College,70000
+52,Graduate,30000
+44,High School,30000
+47,Uneducated,50000
+50,High School,130000
+43,Graduate,130000
+58,Graduate,50000
+46,Graduate,30000
+54,Doctorate,30000
+31,Post-Graduate,30000
+40,Graduate,30000
+32,Post-Graduate,50000
+45,High School,50000
+53,High School,30000
+34,Uneducated,50000
+49,Graduate,30000
+60,College,50000
+40,College,100000
+59,High School,70000
+49,High School,50000
+44,Graduate,100000
+47,Graduate,70000
+52,Post-Graduate,30000
+47,High School,30000
+41,High School,70000
+55,Graduate,130000
+47,Doctorate,70000
+56,Uneducated,70000
+43,Graduate,30000
+39,High School,70000
+45,Graduate,30000
+54,Graduate,30000
+59,High School,130000
+45,Post-Graduate,30000
+41,Doctorate,30000
+49,Uneducated,30000
+48,Uneducated,50000
+39,High School,50000
+48,Uneducated,50000
+39,Uneducated,50000
+59,Uneducated,30000
+33,Uneducated,50000
+48,Graduate,30000
+49,Uneducated,70000
+43,Doctorate,30000
+42,Graduate,50000
+63,Doctorate,30000
+42,Graduate,30000
+45,Doctorate,130000
+58,Doctorate,30000
+39,High School,30000
+53,Graduate,30000
+38,Uneducated,130000
+65,High School,30000
+60,Doctorate,50000
+45,Uneducated,30000
+42,Uneducated,30000
+56,College,30000
+49,Doctorate,30000
+44,Uneducated,30000
+37,Graduate,30000
+44,High School,130000
+48,Uneducated,30000
+47,College,100000
+46,High School,50000
+62,Graduate,100000
+46,Doctorate,30000
+43,Uneducated,30000
+44,College,50000
+50,High School,70000
+49,College,130000
+62,Uneducated,50000
+54,Uneducated,50000
+56,Doctorate,30000
+57,High School,100000
+48,College,30000
+39,Graduate,30000
+53,Graduate,30000
+40,Graduate,100000
+43,College,100000
+45,Uneducated,70000
+49,High School,30000
+38,Doctorate,30000
+43,Uneducated,130000
+42,Uneducated,30000
+42,Uneducated,30000
+39,Doctorate,30000
+48,Uneducated,50000
+56,Doctorate,50000
+39,Uneducated,30000
+39,Graduate,50000
+48,Graduate,50000
+52,College,50000
+44,High School,30000
+41,College,50000
+42,High School,100000
+49,High School,70000
+38,High School,30000
+57,Graduate,70000
+33,Uneducated,50000
+45,Graduate,30000
+61,Graduate,50000
+41,Doctorate,30000
+40,High School,50000
+51,Graduate,50000
+34,College,30000
+42,Uneducated,70000
+38,High School,50000
+41,Uneducated,30000
+53,Graduate,30000
+45,Graduate,50000
+41,Graduate,30000
+50,College,100000
+51,Uneducated,50000
+47,Graduate,100000
+41,Graduate,30000
+55,High School,50000
+53,Post-Graduate,30000
+46,High School,30000
+53,Post-Graduate,70000
+48,Graduate,30000
+46,Uneducated,50000
+46,High School,30000
+49,High School,50000
+47,Uneducated,30000
+42,Uneducated,100000
+54,Uneducated,30000
+41,Graduate,100000
+39,College,50000
+54,College,30000
+42,High School,50000
+52,High School,30000
+60,Uneducated,30000
+40,Uneducated,100000
+48,Uneducated,30000
+48,Graduate,100000
+54,Doctorate,50000
+37,Graduate,30000
+60,Graduate,30000
+51,Graduate,70000
+47,High School,100000
+30,Uneducated,30000
+60,Graduate,30000
+49,Uneducated,30000
+50,High School,100000
+32,Post-Graduate,30000
+40,Graduate,100000
+34,Graduate,30000
+45,College,70000
+45,College,30000
+43,Uneducated,30000
+47,Graduate,30000
+42,Uneducated,30000
+51,Graduate,30000
+44,High School,100000
+43,Post-Graduate,130000
+44,Graduate,30000
+50,Post-Graduate,50000
+42,Graduate,30000
+59,High School,70000
+60,College,30000
+44,Graduate,30000
+56,High School,100000
+55,Graduate,70000
+47,Graduate,30000
+56,Uneducated,30000
+44,Graduate,30000
+54,Doctorate,30000
+37,Graduate,100000
+49,Graduate,30000
+38,High School,50000
+49,Graduate,30000
+41,Graduate,100000
+54,Uneducated,30000
+39,Uneducated,100000
+38,High School,100000
+64,College,50000
+55,Doctorate,100000
+50,Uneducated,130000
+55,High School,130000
+51,Uneducated,30000
+58,Uneducated,100000
+47,Graduate,30000
+53,Post-Graduate,50000
+45,Graduate,30000
+60,Graduate,30000
+42,College,30000
+55,Uneducated,30000
+51,High School,30000
+51,Graduate,30000
+50,Graduate,100000
+49,Uneducated,30000
+38,Graduate,30000
+54,Doctorate,30000
+54,High School,30000
+43,Graduate,30000
+43,Graduate,100000
+57,Uneducated,30000
+43,Post-Graduate,50000
+49,Uneducated,70000
+51,Uneducated,130000
+46,High School,30000
+56,High School,30000
+46,Graduate,50000
+51,High School,100000
+33,Graduate,30000
+41,High School,50000
+55,Graduate,70000
+55,Uneducated,130000
+41,Graduate,30000
+50,Uneducated,30000
+36,Graduate,30000
+39,High School,30000
+38,Uneducated,30000
+46,Graduate,30000
+40,High School,30000
+58,Uneducated,70000
+43,Uneducated,30000
+56,Uneducated,30000
+58,College,100000
+29,Uneducated,30000
+48,Doctorate,50000
+61,Uneducated,50000
+51,College,100000
+48,Uneducated,30000
+26,Graduate,30000
+39,Graduate,30000
+38,College,100000
+51,Doctorate,30000
+37,Uneducated,30000
+53,High School,30000
+39,Uneducated,30000
+56,High School,50000
+51,High School,30000
+53,Graduate,30000
+54,High School,30000
+36,High School,50000
+53,High School,30000
+46,Graduate,100000
+56,Graduate,100000
+42,High School,50000
+43,Graduate,30000
+43,Post-Graduate,70000
+47,Graduate,30000
+48,Uneducated,30000
+47,Graduate,30000
+48,Post-Graduate,50000
+36,High School,50000
+49,Uneducated,30000
+51,High School,30000
+43,Graduate,30000
+49,Graduate,50000
+60,Uneducated,30000
+46,High School,30000
+52,Graduate,70000
+35,College,30000
+45,Graduate,100000
+50,High School,50000
+44,College,70000
+35,Graduate,30000
+42,Uneducated,130000
+48,College,50000
+47,Doctorate,30000
+39,Uneducated,30000
+39,High School,50000
+48,High School,30000
+43,College,50000
+50,Graduate,30000
+50,Post-Graduate,50000
+44,Graduate,30000
+54,Uneducated,30000
+40,College,30000
+40,Graduate,70000
+52,Uneducated,30000
+41,Graduate,30000
+53,College,50000
+48,Uneducated,50000
+62,Graduate,100000
+59,Uneducated,50000
+41,High School,100000
+38,Graduate,30000
+50,Doctorate,100000
+40,Graduate,30000
+39,Uneducated,30000
+40,High School,30000
+41,Graduate,70000
+35,Graduate,30000
+48,Uneducated,50000
+55,Doctorate,70000
+43,High School,50000
+35,Graduate,30000
+40,Graduate,30000
+55,Graduate,30000
+46,High School,30000
+48,High School,50000
+32,Graduate,30000
+53,Uneducated,30000
+42,Uneducated,30000
+45,High School,130000
+56,Uneducated,50000
+42,Graduate,30000
+40,Uneducated,30000
+57,Graduate,100000
+40,High School,50000
+42,Graduate,50000
+49,Doctorate,50000
+43,Doctorate,70000
+43,Graduate,30000
+45,Graduate,30000
+40,High School,30000
+53,Uneducated,100000
+39,High School,30000
+39,High School,70000
+40,Post-Graduate,130000
+46,Graduate,30000
+44,College,30000
+44,Uneducated,30000
+44,Graduate,50000
+39,Graduate,30000
+37,High School,30000
+36,Graduate,50000
+53,Uneducated,50000
+52,Uneducated,70000
+37,Doctorate,70000
+39,Uneducated,50000
+40,Uneducated,30000
+41,Doctorate,30000
+46,Uneducated,50000
+45,High School,30000
+52,College,130000
+49,Post-Graduate,100000
+50,Uneducated,130000
+54,High School,30000
+44,Doctorate,30000
+50,High School,70000
+49,Graduate,50000
+59,Post-Graduate,100000
+37,High School,50000
+52,High School,30000
+55,Uneducated,50000
+41,Graduate,30000
+38,High School,30000
+37,Graduate,50000
+41,Graduate,50000
+49,College,70000
+43,Graduate,70000
+47,College,30000
+51,College,50000
+33,Graduate,30000
+52,Post-Graduate,100000
+51,Post-Graduate,130000
+49,High School,30000
+30,High School,30000
+42,College,30000
+57,High School,50000
+48,College,100000
+61,High School,30000
+43,High School,30000
+60,Doctorate,30000
+45,Graduate,100000
+41,High School,30000
+60,College,30000
+40,High School,50000
+48,Post-Graduate,70000
+44,Graduate,50000
+42,High School,100000
+46,Uneducated,30000
+44,Graduate,30000
+43,College,30000
+50,Graduate,30000
+51,High School,100000
+51,College,30000
+60,High School,30000
+43,High School,50000
+48,Doctorate,50000
+46,Post-Graduate,70000
+50,College,50000
+56,High School,70000
+53,Doctorate,30000
+47,High School,50000
+49,Uneducated,100000
+47,Graduate,30000
+42,Post-Graduate,30000
+52,Graduate,30000
+49,Graduate,130000
+41,Uneducated,100000
+52,Graduate,70000
+52,Graduate,30000
+52,High School,50000
+44,Graduate,30000
+48,College,50000
+51,Uneducated,70000
+53,High School,30000
+46,Graduate,30000
+44,Graduate,50000
+49,Graduate,50000
+48,Graduate,30000
+48,College,70000
+34,Post-Graduate,30000
+45,Graduate,70000
+33,Graduate,30000
+43,High School,50000
+47,High School,50000
+45,Uneducated,30000
+50,College,50000
+57,Graduate,130000
+50,Graduate,30000
+51,Doctorate,30000
+53,Uneducated,30000
+55,Graduate,30000
+52,College,30000
+46,High School,30000
+62,High School,70000
+47,College,30000
+50,Post-Graduate,50000
+43,Doctorate,70000
+46,College,130000
+38,Doctorate,30000
+49,College,30000
+47,College,70000
+55,Uneducated,30000
+62,Graduate,70000
+55,Uneducated,70000
+41,Uneducated,50000
+55,Post-Graduate,130000
+52,Graduate,100000
+45,High School,50000
+44,Graduate,50000
+51,College,100000
+52,College,130000
+52,High School,30000
+38,College,70000
+50,High School,50000
+48,Graduate,70000
+53,Graduate,30000
+53,Graduate,30000
+47,Doctorate,30000
+40,College,30000
+43,Post-Graduate,70000
+50,Graduate,30000
+59,High School,30000
+47,Graduate,50000
+56,Graduate,70000
+55,High School,100000
+34,Graduate,50000
+39,College,50000
+47,Graduate,30000
+47,Uneducated,30000
+37,High School,50000
+41,Uneducated,50000
+50,Graduate,30000
+53,Doctorate,30000
+41,Doctorate,30000
+51,Graduate,30000
+38,Graduate,30000
+40,Doctorate,30000
+51,Doctorate,30000
+41,Graduate,100000
+58,High School,30000
+33,Graduate,30000
+38,Graduate,30000
+42,Post-Graduate,30000
+44,High School,30000
+44,Graduate,30000
+41,Uneducated,100000
+47,Uneducated,130000
+48,Graduate,100000
+59,Graduate,30000
+33,Uneducated,50000
+44,College,30000
+43,Graduate,50000
+41,Graduate,50000
+55,High School,50000
+50,Post-Graduate,100000
+33,High School,100000
+45,High School,100000
+56,Graduate,30000
+44,High School,30000
+48,Graduate,30000
+53,High School,100000
+55,High School,30000
+49,College,70000
+64,Graduate,30000
+47,Uneducated,70000
+60,College,30000
+59,Graduate,30000
+50,Graduate,100000
+46,College,30000
+49,High School,30000
+40,High School,100000
+44,Doctorate,130000
+39,Graduate,130000
+43,Uneducated,100000
+35,Doctorate,100000
+53,Graduate,30000
+49,Graduate,30000
+49,Graduate,30000
+41,Graduate,30000
+43,High School,70000
+48,Graduate,30000
+41,Graduate,50000
+40,High School,50000
+48,College,30000
+34,College,30000
+44,Uneducated,30000
+41,Graduate,30000
+34,College,30000
+41,Graduate,30000
+37,Graduate,30000
+36,College,30000
+53,High School,30000
+46,Graduate,50000
+47,Graduate,100000
+52,Graduate,30000
+44,Doctorate,30000
+51,High School,50000
+46,High School,50000
+37,Graduate,50000
+47,Uneducated,70000
+57,Uneducated,30000
+46,High School,30000
+57,Graduate,30000
+50,Graduate,130000
+53,Graduate,30000
+43,Graduate,50000
+36,Post-Graduate,30000
+56,College,30000
+46,College,50000
+53,Graduate,30000
+52,Graduate,50000
+53,High School,50000
+40,High School,30000
+42,Graduate,70000
+40,Uneducated,30000
+49,Post-Graduate,30000
+42,Graduate,30000
+60,Graduate,50000
+44,Graduate,50000
+46,High School,100000
+45,Uneducated,30000
+42,Graduate,70000
+49,College,130000
+53,High School,130000
+44,Uneducated,50000
+37,High School,30000
+43,High School,30000
+44,High School,70000
+60,High School,50000
+59,Post-Graduate,50000
+37,High School,50000
+48,Graduate,30000
+52,High School,30000
+42,High School,30000
+52,Graduate,50000
+44,High School,50000
+36,Uneducated,30000
+49,Graduate,50000
+42,High School,30000
+48,Graduate,100000
+45,Uneducated,30000
+40,Graduate,50000
+48,Post-Graduate,30000
+32,Post-Graduate,50000
+34,Uneducated,30000
+46,College,30000
+47,Uneducated,50000
+48,Graduate,50000
+52,Doctorate,50000
+45,Uneducated,130000
+36,Graduate,30000
+42,High School,30000
+39,Graduate,30000
+43,Uneducated,30000
+48,Doctorate,30000
+56,High School,100000
+45,Graduate,30000
+65,High School,30000
+53,Graduate,50000
+49,Graduate,30000
+42,Uneducated,30000
+43,Uneducated,30000
+49,High School,30000
+44,High School,70000
+48,Graduate,50000
+46,High School,70000
+49,High School,50000
+35,Doctorate,30000
+50,Uneducated,130000
+47,Graduate,130000
+60,Uneducated,30000
+45,High School,100000
+51,High School,30000
+41,High School,30000
+28,Graduate,30000
+50,College,30000
+44,Graduate,30000
+48,Uneducated,70000
+65,High School,50000
+56,Graduate,30000
+48,Graduate,50000
+43,Graduate,50000
+41,Graduate,70000
+35,Doctorate,30000
+48,High School,30000
+51,High School,30000
+45,High School,50000
+35,Uneducated,30000
+58,Graduate,50000
+48,Graduate,30000
+57,Graduate,130000
+53,High School,30000
+39,Graduate,70000
+57,Uneducated,30000
+57,College,30000
+41,College,30000
+45,Doctorate,30000
+52,Graduate,70000
+40,Graduate,30000
+45,Graduate,50000
+43,Graduate,70000
+56,Graduate,30000
+44,Post-Graduate,30000
+49,High School,30000
+39,High School,30000
+49,College,50000
+44,Graduate,50000
+42,Graduate,30000
+45,Doctorate,30000
+38,Post-Graduate,30000
+58,Uneducated,30000
+57,Graduate,30000
+50,Graduate,130000
+53,High School,100000
+52,Graduate,30000
+43,Post-Graduate,30000
+40,Graduate,30000
+51,Uneducated,100000
+49,Graduate,50000
+40,Uneducated,100000
+56,Graduate,30000
+49,High School,100000
+36,Graduate,50000
+46,High School,30000
+42,Doctorate,30000
+45,Uneducated,30000
+37,Uneducated,130000
+55,Graduate,30000
+49,High School,30000
+41,High School,70000
+47,Post-Graduate,50000
+42,High School,70000
+31,Graduate,30000
+50,Post-Graduate,100000
+47,Graduate,30000
+40,Post-Graduate,50000
+47,High School,30000
+53,College,30000
+50,Post-Graduate,70000
+59,High School,50000
+43,Graduate,30000
+59,High School,30000
+51,Graduate,30000
+35,Graduate,30000
+55,College,30000
+41,College,30000
+51,Graduate,30000
+51,Graduate,30000
+43,High School,30000
+39,Graduate,30000
+52,High School,30000
+47,Uneducated,30000
+44,High School,70000
+56,Graduate,70000
+44,College,50000
+47,High School,30000
+51,Uneducated,30000
+47,High School,100000
+45,Graduate,30000
+56,Uneducated,50000
+55,Graduate,30000
+49,High School,50000
+47,Doctorate,130000
+52,College,30000
+47,High School,30000
+50,Graduate,30000
+52,Graduate,100000
+46,College,100000
+40,High School,130000
+42,High School,30000
+29,Graduate,30000
+50,High School,100000
+43,Graduate,30000
+40,Uneducated,130000
+35,Doctorate,30000
+55,College,30000
+53,High School,50000
+46,High School,50000
+50,High School,30000
+53,Graduate,50000
+58,Graduate,30000
+47,High School,30000
+50,High School,30000
+56,Uneducated,30000
+48,Graduate,50000
+55,High School,30000
+38,Graduate,30000
+46,High School,50000
+52,Graduate,30000
+48,Uneducated,100000
+36,College,130000
+38,High School,30000
+44,Uneducated,130000
+51,Graduate,50000
+41,Doctorate,30000
+51,High School,70000
+40,Graduate,70000
+65,Doctorate,30000
+46,College,100000
+45,Graduate,70000
+49,Graduate,100000
+41,High School,50000
+41,Graduate,100000
+41,Graduate,70000
+51,College,30000
+46,Graduate,30000
+39,Uneducated,50000
+46,Uneducated,70000
+43,High School,50000
+63,Graduate,100000
+50,Graduate,130000
+37,Uneducated,50000
+33,Doctorate,30000
+44,Post-Graduate,70000
+44,Uneducated,100000
+47,High School,70000
+47,Graduate,30000
+49,Graduate,30000
+59,College,30000
+39,High School,130000
+35,High School,50000
+39,Graduate,30000
+34,Graduate,70000
+49,Uneducated,30000
+56,Graduate,30000
+46,Uneducated,50000
+45,Uneducated,100000
+37,Graduate,30000
+48,High School,50000
+52,College,70000
+44,High School,30000
+55,Graduate,30000
+45,Graduate,30000
+52,High School,30000
+33,Graduate,30000
+44,Uneducated,70000
+56,High School,130000
+46,Uneducated,100000
+34,High School,100000
+40,Uneducated,100000
+46,High School,30000
+65,College,30000
+50,Doctorate,30000
+61,Post-Graduate,50000
+35,Graduate,50000
+65,Graduate,30000
+45,Graduate,50000
+43,Uneducated,30000
+41,Graduate,30000
+42,Graduate,70000
+52,High School,30000
+45,Uneducated,30000
+37,High School,50000
+48,Post-Graduate,50000
+59,Graduate,30000
+57,High School,30000
+57,Graduate,130000
+52,College,30000
+43,Uneducated,30000
+36,High School,30000
+49,Doctorate,70000
+43,High School,70000
+44,High School,50000
+57,Uneducated,30000
+55,Post-Graduate,70000
+37,Post-Graduate,30000
+54,High School,50000
+34,Uneducated,70000
+50,Graduate,100000
+50,High School,30000
+49,Doctorate,70000
+52,High School,130000
+54,High School,50000
+54,Post-Graduate,30000
+50,High School,30000
+37,Graduate,50000
+46,Graduate,100000
+47,Uneducated,70000
+51,Uneducated,50000
+42,Doctorate,70000
+58,High School,70000
+51,High School,30000
+56,Graduate,100000
+51,Graduate,30000
+43,College,100000
+56,Post-Graduate,30000
+48,College,100000
+56,Graduate,50000
+41,College,50000
+44,College,30000
+54,Post-Graduate,100000
+48,Graduate,30000
+34,High School,50000
+59,Graduate,30000
+41,College,50000
+39,Graduate,30000
+50,Graduate,30000
+49,Graduate,50000
+49,High School,100000
+42,Graduate,30000
+65,College,30000
+43,Graduate,30000
+52,Graduate,30000
+39,High School,50000
+48,High School,50000
+46,Uneducated,100000
+44,College,100000
+53,Graduate,50000
+44,High School,30000
+41,High School,30000
+47,Post-Graduate,30000
+54,Uneducated,30000
+40,High School,100000
+42,Graduate,30000
+39,College,50000
+41,College,30000
+57,Post-Graduate,30000
+60,High School,30000
+51,Graduate,100000
+63,College,70000
+49,High School,50000
+41,College,50000
+51,High School,100000
+46,College,50000
+34,Uneducated,30000
+54,Doctorate,30000
+41,High School,100000
+48,Graduate,30000
+45,Graduate,30000
+39,Graduate,30000
+46,Doctorate,30000
+45,Graduate,30000
+49,Uneducated,100000
+40,Graduate,30000
+45,Post-Graduate,70000
+34,High School,30000
+44,Graduate,100000
+42,Graduate,70000
+42,Graduate,100000
+52,College,100000
+44,College,70000
+47,College,30000
+51,High School,30000
+47,College,30000
+47,High School,30000
+49,Post-Graduate,50000
+35,Graduate,30000
+34,Graduate,50000
+59,College,30000
+52,High School,100000
+58,Doctorate,30000
+59,Graduate,30000
+50,Doctorate,50000
+49,Graduate,30000
+61,High School,30000
+47,Uneducated,50000
+52,Post-Graduate,50000
+38,Uneducated,30000
+57,Doctorate,30000
+55,Graduate,30000
+57,High School,30000
+65,High School,30000
+55,Uneducated,30000
+44,College,30000
+55,Graduate,30000
+39,College,30000
+37,College,30000
+55,Graduate,30000
+46,Doctorate,30000
+57,Graduate,30000
+38,High School,30000
+34,High School,30000
+44,College,30000
+39,Uneducated,70000
+40,Graduate,30000
+43,High School,50000
+50,Graduate,30000
+54,High School,30000
+47,Post-Graduate,50000
+51,Graduate,70000
+43,College,70000
+45,Graduate,30000
+52,Doctorate,100000
+46,Doctorate,100000
+49,Uneducated,50000
+43,Post-Graduate,30000
+40,Graduate,30000
+48,Post-Graduate,70000
+39,Graduate,30000
+45,Graduate,30000
+45,College,30000
+56,Uneducated,70000
+47,High School,30000
+48,Graduate,70000
+30,Graduate,30000
+52,College,30000
+35,College,30000
+38,Graduate,30000
+44,Graduate,30000
+53,High School,50000
+43,Graduate,50000
+56,Graduate,30000
+48,High School,50000
+41,Doctorate,50000
+47,Uneducated,30000
+43,High School,30000
+50,High School,30000
+40,High School,30000
+50,Graduate,30000
+41,College,50000
+37,Doctorate,50000
+56,Doctorate,50000
+47,High School,70000
+44,Post-Graduate,30000
+38,Graduate,100000
+45,Graduate,30000
+47,College,30000
+39,High School,30000
+48,Graduate,30000
+53,Graduate,30000
+51,Graduate,50000
+41,High School,30000
+38,Uneducated,30000
+36,Post-Graduate,30000
+46,Post-Graduate,30000
+58,High School,50000
+44,High School,30000
+42,Post-Graduate,30000
+42,Uneducated,100000
+45,Uneducated,30000
+48,Doctorate,30000
+43,Post-Graduate,50000
+36,Doctorate,30000
+44,Doctorate,50000
+43,College,30000
+52,College,30000
+61,High School,30000
+43,High School,70000
+48,High School,30000
+59,Post-Graduate,30000
+58,High School,30000
+51,High School,100000
+64,Graduate,30000
+50,High School,130000
+49,Graduate,100000
+53,Uneducated,30000
+54,Graduate,70000
+42,High School,30000
+43,Graduate,30000
+46,Graduate,100000
+38,Graduate,30000
+47,Graduate,50000
+37,Uneducated,70000
+47,Post-Graduate,50000
+43,Uneducated,70000
+56,High School,30000
+43,Graduate,70000
+47,Uneducated,30000
+44,Graduate,70000
+52,Graduate,50000
+52,Graduate,30000
+40,Graduate,50000
+43,High School,70000
+53,Graduate,100000
+55,Graduate,30000
+40,Uneducated,70000
+41,High School,70000
+47,Post-Graduate,30000
+46,High School,70000
+33,Uneducated,100000
+45,High School,30000
+53,High School,50000
+36,Graduate,100000
+42,Post-Graduate,30000
+51,Uneducated,30000
+44,Graduate,30000
+47,Post-Graduate,70000
+57,Graduate,30000
+43,Post-Graduate,30000
+51,Graduate,130000
+44,Post-Graduate,30000
+46,Graduate,30000
+52,Graduate,50000
+45,Graduate,70000
+59,Post-Graduate,30000
+46,Doctorate,30000
+43,Graduate,70000
+35,Doctorate,100000
+44,High School,100000
+57,Graduate,30000
+55,Uneducated,70000
+48,High School,70000
+59,High School,50000
+43,Graduate,100000
+55,College,30000
+42,Graduate,50000
+48,High School,50000
+50,Uneducated,100000
+33,Uneducated,30000
+48,Graduate,50000
+48,Uneducated,70000
+39,Post-Graduate,30000
+41,High School,130000
+37,Uneducated,30000
+54,Graduate,50000
+41,Graduate,50000
+48,Graduate,100000
+55,College,50000
+49,Uneducated,30000
+51,Post-Graduate,30000
+35,Graduate,50000
+46,Post-Graduate,30000
+50,Graduate,50000
+43,College,100000
+48,Uneducated,30000
+53,College,100000
+49,Doctorate,50000
+45,High School,30000
+49,Post-Graduate,50000
+44,Graduate,70000
+52,Graduate,50000
+37,Graduate,50000
+47,College,30000
+40,Uneducated,30000
+42,Graduate,30000
+42,High School,30000
+59,Graduate,30000
+47,Graduate,30000
+56,Uneducated,30000
+46,High School,50000
+26,Graduate,30000
+42,Graduate,30000
+47,Graduate,130000
+48,Graduate,30000
+44,Uneducated,100000
+56,High School,30000
+43,Graduate,30000
+40,Uneducated,100000
+38,Graduate,30000
+40,Graduate,30000
+48,Graduate,50000
+46,High School,100000
+43,High School,100000
+52,High School,130000
+42,College,70000
+46,Graduate,30000
+42,Graduate,50000
+45,College,50000
+33,High School,100000
+50,Graduate,70000
+53,Graduate,30000
+48,Graduate,100000
+44,High School,30000
+52,Uneducated,50000
+40,Graduate,30000
+41,High School,70000
+43,Post-Graduate,70000
+46,Graduate,50000
+43,Graduate,50000
+40,High School,30000
+39,Doctorate,50000
+47,Doctorate,30000
+35,High School,30000
+46,Graduate,30000
+41,High School,30000
+48,Graduate,50000
+37,Uneducated,50000
+42,Graduate,50000
+42,College,50000
+36,Graduate,50000
+47,High School,50000
+41,High School,30000
+60,High School,30000
+54,High School,30000
+44,Post-Graduate,100000
+49,Uneducated,30000
+64,Graduate,30000
+54,Post-Graduate,30000
+50,Doctorate,30000
+40,Uneducated,130000
+49,College,50000
+51,Uneducated,100000
+43,Graduate,30000
+59,Graduate,70000
+42,Uneducated,30000
+47,Graduate,30000
+53,Uneducated,130000
+49,Graduate,30000
+45,Post-Graduate,50000
+48,Doctorate,70000
+48,High School,70000
+57,High School,30000
+56,High School,30000
+46,Post-Graduate,70000
+42,High School,70000
+49,Uneducated,30000
+48,Post-Graduate,70000
+55,Post-Graduate,50000
+44,High School,70000
+38,High School,30000
+45,Doctorate,50000
+54,High School,30000
+38,College,30000
+42,Graduate,30000
+43,Graduate,30000
+52,Graduate,100000
+52,Uneducated,50000
+42,College,30000
+53,Graduate,50000
+52,High School,130000
+34,Graduate,50000
+51,Graduate,100000
+48,High School,30000
+41,High School,30000
+62,Graduate,30000
+46,Graduate,70000
+50,High School,30000
+62,Graduate,50000
+38,Graduate,50000
+44,College,30000
+59,Graduate,50000
+48,High School,30000
+46,High School,30000
+50,High School,30000
+44,Graduate,70000
+50,Graduate,130000
+45,High School,30000
+52,Graduate,50000
+49,Uneducated,70000
+60,High School,30000
+38,Graduate,30000
+47,Graduate,50000
+57,Uneducated,30000
+39,Graduate,100000
+54,College,30000
+43,Graduate,50000
+32,Post-Graduate,30000
+58,College,30000
+33,College,100000
+56,High School,130000
+61,Graduate,70000
+50,College,100000
+44,Uneducated,50000
+46,Uneducated,100000
+44,College,30000
+46,Graduate,30000
+42,Uneducated,70000
+54,Post-Graduate,30000
+39,Graduate,30000
+45,High School,30000
+61,Graduate,50000
+59,High School,100000
+46,Doctorate,130000
+60,College,30000
+40,Graduate,130000
+39,Graduate,30000
+57,Post-Graduate,30000
+48,Post-Graduate,130000
+55,High School,30000
+44,Uneducated,30000
+43,Post-Graduate,30000
+51,Graduate,30000
+41,Doctorate,130000
+52,High School,70000
+47,Doctorate,30000
+54,Uneducated,30000
+34,High School,30000
+44,College,30000
+46,Graduate,50000
+30,High School,30000
+56,Graduate,30000
+52,Graduate,50000
+45,High School,100000
+49,High School,70000
+42,College,50000
+58,Uneducated,50000
+44,Graduate,30000
+43,Uneducated,50000
+27,Graduate,30000
+47,Graduate,30000
+45,Graduate,30000
+46,Graduate,50000
+55,Graduate,130000
+51,Doctorate,50000
+42,Graduate,30000
+65,Doctorate,30000
+49,Graduate,30000
+51,College,130000
+47,High School,30000
+37,Post-Graduate,100000
+48,High School,30000
+55,Graduate,130000
+44,Graduate,30000
+47,Post-Graduate,50000
+46,Uneducated,100000
+46,High School,100000
+62,Uneducated,70000
+47,Graduate,50000
+39,High School,30000
+53,High School,50000
+49,High School,30000
+46,Graduate,50000
+39,Post-Graduate,50000
+58,High School,30000
+43,Uneducated,50000
+42,Graduate,50000
+65,Graduate,50000
+55,Doctorate,30000
+41,Graduate,30000
+37,Graduate,100000
+43,Graduate,30000
+46,Graduate,70000
+39,Uneducated,100000
+49,Uneducated,30000
+39,Graduate,30000
+41,College,70000
+57,Uneducated,70000
+38,Post-Graduate,30000
+55,Post-Graduate,100000
+42,Doctorate,50000
+52,High School,30000
+53,Graduate,50000
+45,High School,50000
+50,Post-Graduate,50000
+42,High School,30000
+52,Uneducated,30000
+57,Doctorate,30000
+48,Graduate,100000
+52,Uneducated,30000
+56,Uneducated,100000
+43,High School,50000
+62,Uneducated,70000
+51,Uneducated,100000
+45,Graduate,30000
+45,Graduate,130000
+56,Uneducated,50000
+60,Uneducated,50000
+49,Graduate,70000
+50,Graduate,30000
+36,Graduate,30000
+57,Post-Graduate,50000
+46,Post-Graduate,50000
+40,High School,30000
+50,Uneducated,30000
+50,Graduate,30000
+49,Doctorate,50000
+56,Graduate,30000
+47,Graduate,50000
+41,Graduate,30000
+49,High School,30000
+51,Graduate,50000
+44,High School,70000
+46,Graduate,70000
+56,Graduate,50000
+41,Uneducated,30000
+49,Graduate,30000
+53,College,30000
+44,Uneducated,30000
+46,Graduate,30000
+41,Post-Graduate,50000
+49,Post-Graduate,50000
+52,Graduate,30000
+47,High School,30000
+40,High School,30000
+46,High School,30000
+53,High School,30000
+43,College,30000
+51,Uneducated,30000
+58,Uneducated,30000
+50,College,50000
+45,Post-Graduate,50000
+48,Graduate,50000
+47,High School,30000
+39,Graduate,30000
+45,Graduate,50000
+56,Graduate,30000
+52,Graduate,50000
+44,Graduate,50000
+41,Uneducated,30000
+52,Graduate,30000
+41,Post-Graduate,30000
+37,Graduate,50000
+60,Graduate,30000
+47,Uneducated,50000
+42,Uneducated,100000
+45,College,100000
+41,Graduate,30000
+39,Graduate,30000
+44,Graduate,30000
+43,High School,30000
+56,Graduate,50000
+41,Uneducated,50000
+43,Graduate,70000
+39,Graduate,30000
+44,College,70000
+43,Uneducated,30000
+56,Graduate,50000
+57,High School,30000
+51,Graduate,30000
+60,High School,50000
+43,Graduate,30000
+37,College,50000
+46,Graduate,50000
+50,High School,30000
+38,High School,30000
+44,Graduate,50000
+37,High School,30000
+40,Post-Graduate,50000
+51,Graduate,100000
+57,Graduate,30000
+40,Uneducated,100000
+61,Graduate,30000
+57,High School,30000
+40,Graduate,100000
+50,Graduate,30000
+43,Graduate,50000
+46,Doctorate,100000
+42,College,30000
+41,College,30000
+50,High School,30000
+42,Graduate,30000
+43,Post-Graduate,50000
+58,Uneducated,30000
+40,High School,30000
+41,Graduate,50000
+59,Graduate,30000
+52,High School,30000
+36,Graduate,30000
+43,Graduate,30000
+51,College,30000
+52,College,70000
+45,Graduate,50000
+40,College,100000
+49,Graduate,30000
+47,High School,50000
+40,College,50000
+43,Uneducated,30000
+52,College,50000
+63,Graduate,30000
+40,Graduate,30000
+60,High School,30000
+56,Graduate,30000
+45,Graduate,50000
+51,Graduate,30000
+50,Doctorate,130000
+43,College,50000
+41,High School,50000
+41,High School,50000
+42,Doctorate,50000
+54,College,130000
+43,Uneducated,30000
+52,Graduate,30000
+40,Graduate,30000
+53,Graduate,50000
+56,Graduate,30000
+53,Graduate,50000
+38,Uneducated,50000
+36,Graduate,30000
+41,High School,30000
+41,Post-Graduate,30000
+42,Graduate,30000
+39,Graduate,50000
+49,Uneducated,30000
+40,College,30000
+50,College,100000
+44,Uneducated,30000
+62,Graduate,30000
+55,College,30000
+54,Graduate,100000
+34,Uneducated,70000
+41,Graduate,70000
+38,Graduate,70000
+57,Graduate,30000
+39,Graduate,50000
+38,Graduate,30000
+64,Graduate,30000
+54,High School,100000
+60,Graduate,50000
+46,Graduate,70000
+36,Uneducated,30000
+47,Graduate,50000
+58,High School,50000
+62,Post-Graduate,70000
+53,High School,30000
+51,Uneducated,30000
+41,High School,100000
+54,Graduate,30000
+49,Post-Graduate,30000
+39,High School,30000
+45,College,50000
+48,College,30000
+43,College,50000
+43,Uneducated,30000
+27,Post-Graduate,30000
+39,Graduate,50000
+54,Uneducated,70000
+40,Uneducated,30000
+51,College,100000
+53,Graduate,70000
+47,Uneducated,30000
+42,High School,100000
+38,High School,30000
+49,Doctorate,50000
+51,High School,30000
+40,Graduate,70000
+47,Uneducated,30000
+45,Uneducated,50000
+47,Uneducated,70000
+57,Uneducated,100000
+50,Graduate,30000
+34,Graduate,30000
+48,College,30000
+43,Graduate,50000
+39,High School,30000
+41,Graduate,50000
+47,Uneducated,30000
+51,Graduate,130000
+34,Uneducated,30000
+38,Graduate,30000
+57,Uneducated,100000
+44,High School,50000
+42,Graduate,70000
+58,Graduate,30000
+41,High School,30000
+33,Graduate,30000
+60,Graduate,50000
+56,Graduate,30000
+41,Graduate,50000
+46,High School,30000
+52,Uneducated,30000
+45,College,100000
+42,Doctorate,50000
+39,Post-Graduate,100000
+50,Graduate,50000
+46,Graduate,30000
+38,College,70000
+57,Post-Graduate,50000
+43,Uneducated,30000
+54,College,30000
+39,Doctorate,30000
+41,High School,130000
+45,Uneducated,30000
+36,College,30000
+50,Graduate,30000
+42,Graduate,30000
+59,High School,70000
+43,Graduate,50000
+33,High School,50000
+38,High School,30000
+46,College,50000
+44,Graduate,30000
+49,Uneducated,50000
+50,Uneducated,30000
+51,Uneducated,30000
+36,Graduate,30000
+36,College,30000
+37,High School,30000
+39,Graduate,50000
+45,High School,130000
+46,High School,30000
+38,High School,30000
+44,Post-Graduate,100000
+42,Graduate,50000
+49,High School,30000
+55,Graduate,30000
+56,Post-Graduate,30000
+39,Graduate,30000
+42,Graduate,100000
+55,Uneducated,30000
+51,College,50000
+43,College,100000
+35,Graduate,50000
+37,Uneducated,30000
+59,College,50000
+59,Graduate,50000
+45,Graduate,100000
+57,High School,130000
+36,High School,30000
+52,Uneducated,30000
+45,Graduate,70000
+50,Doctorate,100000
+46,College,30000
+55,Uneducated,50000
+51,High School,30000
+44,College,30000
+39,Post-Graduate,130000
+46,Graduate,130000
+54,College,30000
+51,High School,30000
+47,Uneducated,30000
+61,Graduate,70000
+53,Graduate,130000
+31,Graduate,30000
+51,Graduate,100000
+60,Graduate,70000
+42,Graduate,30000
+54,Post-Graduate,30000
+42,High School,30000
+48,Uneducated,30000
+50,Graduate,100000
+52,Graduate,50000
+46,Graduate,50000
+50,Uneducated,30000
+62,College,50000
+50,High School,100000
+50,Graduate,50000
+48,High School,30000
+46,Graduate,50000
+40,Graduate,130000
+40,College,30000
+54,Graduate,50000
+54,Graduate,30000
+37,Doctorate,30000
+38,High School,50000
+42,High School,50000
+42,College,30000
+45,College,30000
+54,Graduate,30000
+43,High School,100000
+45,Graduate,50000
+49,College,30000
+41,Graduate,130000
+39,Graduate,30000
+46,Graduate,100000
+58,Post-Graduate,100000
+47,Graduate,30000
+56,High School,30000
+54,Uneducated,100000
+51,High School,30000
+36,Uneducated,50000
+45,Graduate,50000
+51,Doctorate,70000
+54,College,30000
+37,Graduate,30000
+47,High School,30000
+45,Graduate,50000
+40,High School,50000
+47,College,70000
+54,College,30000
+38,Graduate,50000
+43,College,70000
+43,High School,30000
+41,High School,50000
+54,Graduate,30000
+45,High School,30000
+40,High School,50000
+54,College,30000
+52,Post-Graduate,30000
+58,High School,30000
+51,Graduate,30000
+40,Graduate,130000
+54,Doctorate,30000
+42,High School,100000
+50,Uneducated,30000
+47,Doctorate,100000
+46,High School,70000
+52,Graduate,30000
+57,Graduate,50000
+56,Uneducated,50000
+34,Uneducated,30000
+46,High School,100000
+47,High School,50000
+53,High School,70000
+55,Graduate,100000
+51,Graduate,50000
+40,Uneducated,100000
+46,Graduate,30000
+38,Graduate,30000
+47,High School,30000
+44,Uneducated,50000
+36,Graduate,100000
+40,Graduate,70000
+49,Graduate,30000
+45,Graduate,30000
+38,High School,30000
+43,Uneducated,30000
+48,Graduate,50000
+48,Uneducated,50000
+34,Graduate,30000
+46,College,30000
+49,Post-Graduate,30000
+48,College,30000
+42,Graduate,50000
+47,Graduate,70000
+45,Graduate,100000
+41,High School,50000
+45,High School,50000
+57,Uneducated,100000
+49,Uneducated,30000
+50,Uneducated,30000
+51,Graduate,30000
+37,Graduate,30000
+39,Graduate,30000
+37,Post-Graduate,30000
+43,Uneducated,50000
+48,Graduate,30000
+51,Uneducated,30000
+39,Graduate,100000
+47,College,100000
+51,Graduate,50000
+54,High School,70000
+48,High School,70000
+35,College,30000
+42,Uneducated,30000
+43,Uneducated,30000
+50,College,130000
+54,High School,100000
+52,Graduate,30000
+40,High School,30000
+45,Post-Graduate,30000
+44,Graduate,50000
+42,High School,50000
+51,Doctorate,30000
+47,High School,70000
+48,Graduate,30000
+39,Uneducated,50000
+48,Graduate,30000
+46,Graduate,30000
+44,Graduate,70000
+49,Graduate,100000
+58,High School,100000
+38,Graduate,50000
+48,Graduate,100000
+43,College,30000
+59,Graduate,70000
+40,Post-Graduate,100000
+36,Uneducated,30000
+60,Graduate,50000
+47,Doctorate,50000
+51,Doctorate,30000
+42,Doctorate,30000
+52,Graduate,30000
+57,Graduate,30000
+46,Graduate,30000
+47,College,30000
+26,High School,30000
+44,Graduate,30000
+53,College,130000
+33,Graduate,70000
+46,Uneducated,30000
+48,High School,50000
+45,Doctorate,130000
+53,High School,70000
+44,Graduate,70000
+43,Uneducated,50000
+50,Graduate,30000
+40,Doctorate,30000
+37,High School,30000
+47,Uneducated,30000
+40,Uneducated,30000
+43,Uneducated,30000
+56,College,50000
+43,High School,30000
+50,Uneducated,30000
+55,High School,130000
+27,Uneducated,30000
+44,College,30000
+51,Post-Graduate,50000
+43,Uneducated,30000
+54,High School,30000
+44,Graduate,50000
+45,High School,50000
+49,High School,30000
+38,Doctorate,30000
+54,College,130000
+45,Graduate,130000
+36,Uneducated,30000
+40,High School,30000
+41,High School,50000
+37,Graduate,30000
+43,Graduate,30000
+52,Uneducated,30000
+60,College,30000
+39,College,30000
+40,Uneducated,30000
+34,College,30000
+48,Uneducated,30000
+56,Uneducated,30000
+44,Doctorate,50000
+47,High School,30000
+45,Uneducated,30000
+35,Graduate,50000
+42,College,30000
+47,Uneducated,50000
+47,College,50000
+50,Uneducated,50000
+51,High School,50000
+45,College,30000
+42,High School,70000
+45,College,50000
+48,Graduate,50000
+52,Graduate,50000
+58,Post-Graduate,30000
+43,High School,30000
+39,College,50000
+53,College,70000
+40,Graduate,50000
+62,Graduate,30000
+59,Graduate,30000
+53,Graduate,30000
+48,Post-Graduate,30000
+54,Graduate,50000
+41,Graduate,70000
+57,Graduate,30000
+50,High School,30000
+55,High School,70000
+50,Graduate,30000
+47,Graduate,70000
+53,Graduate,30000
+60,Graduate,30000
+42,Post-Graduate,100000
+52,Graduate,50000
+44,High School,30000
+38,High School,70000
+51,High School,100000
+50,Graduate,30000
+53,Graduate,30000
+47,Graduate,30000
+41,Graduate,70000
+54,Doctorate,30000
+53,Uneducated,30000
+43,High School,30000
+42,Graduate,30000
+45,Graduate,30000
+39,Uneducated,50000
+48,High School,70000
+42,Graduate,30000
+46,Graduate,30000
+46,College,30000
+59,High School,30000
+60,Graduate,130000
+41,Uneducated,50000
+49,Graduate,30000
+47,College,30000
+42,Graduate,50000
+35,College,30000
+44,Graduate,30000
+50,Post-Graduate,100000
+46,Graduate,30000
+52,Graduate,30000
+44,High School,30000
+43,Graduate,30000
+52,Graduate,30000
+47,Graduate,70000
+50,Graduate,30000
+44,Graduate,30000
+49,Graduate,30000
+46,High School,130000
+36,Uneducated,30000
+50,Post-Graduate,70000
+41,High School,30000
+50,Doctorate,30000
+46,College,30000
+46,Graduate,30000
+51,High School,30000
+51,Graduate,50000
+61,Uneducated,100000
+44,Graduate,50000
+45,Graduate,50000
+48,College,30000
+37,High School,30000
+46,College,50000
+50,Uneducated,50000
+51,College,130000
+42,College,30000
+35,High School,30000
+37,College,50000
+42,Graduate,30000
+43,College,50000
+44,Graduate,100000
+44,College,30000
+41,Graduate,50000
+47,Uneducated,50000
+43,Graduate,50000
+45,Doctorate,30000
+40,Graduate,30000
+50,College,50000
+46,High School,70000
+37,College,30000
+34,Graduate,30000
+43,Graduate,50000
+40,Graduate,30000
+40,Doctorate,50000
+53,Uneducated,30000
+44,Graduate,30000
+52,Uneducated,30000
+42,Graduate,30000
+42,Graduate,50000
+45,High School,70000
+34,Graduate,50000
+56,Graduate,30000
+34,Graduate,30000
+43,College,100000
+50,Graduate,130000
+40,College,30000
+40,High School,70000
+56,College,30000
+49,High School,30000
+50,Graduate,70000
+39,Graduate,70000
+52,Graduate,30000
+42,High School,30000
+49,Graduate,100000
+44,Uneducated,50000
+39,College,50000
+45,Post-Graduate,30000
+47,Graduate,70000
+46,College,70000
+48,High School,30000
+53,Graduate,30000
+49,Graduate,50000
+55,College,30000
+46,Uneducated,50000
+34,High School,50000
+44,High School,50000
+39,Graduate,100000
+47,Post-Graduate,50000
+49,Uneducated,30000
+42,High School,100000
+31,High School,30000
+52,Doctorate,30000
+39,Graduate,50000
+57,College,30000
+46,College,70000
+45,Uneducated,30000
+45,Graduate,50000
+46,High School,30000
+37,High School,130000
+41,College,30000
+47,Uneducated,100000
+57,High School,50000
+30,Graduate,30000
+47,Graduate,50000
+34,Uneducated,70000
+36,College,100000
+47,Graduate,30000
+53,Graduate,30000
+52,Graduate,30000
+49,College,100000
+52,High School,30000
+26,Graduate,30000
+39,Graduate,30000
+40,Uneducated,50000
+43,Graduate,30000
+46,Uneducated,50000
+46,High School,130000
+58,High School,70000
+46,Graduate,70000
+50,Graduate,100000
+55,College,50000
+48,High School,30000
+46,Graduate,70000
+49,Uneducated,30000
+55,Uneducated,130000
+42,Graduate,70000
+41,High School,30000
+48,Graduate,30000
+43,High School,30000
+42,Graduate,70000
+49,College,100000
+50,Graduate,30000
+54,High School,130000
+48,Graduate,30000
+57,Graduate,30000
+54,College,70000
+56,Graduate,130000
+48,Graduate,130000
+49,College,30000
+46,Graduate,30000
+58,College,30000
+59,Doctorate,30000
+38,High School,30000
+41,Post-Graduate,100000
+48,Graduate,30000
+40,High School,100000
+38,Uneducated,100000
+48,Graduate,50000
+38,College,100000
+52,High School,30000
+48,Post-Graduate,50000
+46,Graduate,100000
+42,College,30000
+39,Uneducated,70000
+36,Graduate,100000
+43,Graduate,30000
+38,High School,30000
+40,Graduate,30000
+43,Graduate,30000
+53,College,30000
+55,Graduate,50000
+42,Graduate,30000
+34,Graduate,30000
+40,High School,30000
+40,Doctorate,50000
+35,High School,30000
+51,Graduate,30000
+53,Graduate,100000
+43,Graduate,30000
+46,High School,50000
+37,High School,130000
+45,High School,30000
+49,Graduate,50000
+54,Doctorate,30000
+47,Graduate,30000
+46,College,130000
+46,Post-Graduate,30000
+42,Graduate,30000
+44,College,50000
+46,Graduate,30000
+51,High School,70000
+57,High School,70000
+59,Uneducated,30000
+45,Graduate,30000
+42,Graduate,30000
+40,College,50000
+40,Uneducated,30000
+43,High School,50000
+44,High School,30000
+34,College,30000
+45,Uneducated,100000
+42,Uneducated,30000
+34,Uneducated,30000
+42,High School,70000
+55,High School,30000
+44,Uneducated,30000
+45,Graduate,30000
+57,College,30000
+44,High School,30000
+40,High School,30000
+42,Post-Graduate,30000
+55,Graduate,50000
+45,Uneducated,30000
+40,Graduate,130000
+52,Uneducated,30000
+46,High School,30000
+49,High School,30000
+53,Uneducated,30000
+55,Uneducated,130000
+53,Graduate,30000
+56,Graduate,50000
+53,Uneducated,30000
+43,High School,30000
+62,High School,30000
+42,College,50000
+33,Doctorate,50000
+57,Graduate,30000
+49,College,30000
+46,College,30000
+52,High School,70000
+56,Post-Graduate,30000
+56,Uneducated,30000
+41,Graduate,100000
+51,Graduate,30000
+48,College,30000
+53,Uneducated,100000
+59,Graduate,30000
+45,Graduate,30000
+45,Graduate,50000
+51,Uneducated,130000
+54,High School,100000
+51,Graduate,130000
+48,High School,50000
+48,Doctorate,30000
+53,Graduate,50000
+55,College,50000
+34,Graduate,50000
+43,High School,70000
+44,High School,30000
+54,Graduate,30000
+49,Graduate,100000
+41,Uneducated,70000
+40,Uneducated,30000
+50,Uneducated,50000
+56,High School,30000
+39,Uneducated,30000
+33,Graduate,30000
+43,Uneducated,30000
+47,Uneducated,50000
+42,College,30000
+45,Doctorate,100000
+48,High School,50000
+52,High School,30000
+50,Graduate,30000
+37,Graduate,50000
+39,Graduate,30000
+52,Post-Graduate,30000
+38,Graduate,30000
+51,Graduate,50000
+38,Post-Graduate,50000
+42,College,70000
+35,High School,30000
+57,Graduate,100000
+42,Uneducated,130000
+57,Graduate,130000
+57,High School,30000
+43,College,30000
+63,Uneducated,30000
+43,High School,130000
+48,Post-Graduate,50000
+46,College,30000
+52,Graduate,70000
+53,College,70000
+57,Uneducated,30000
+50,Uneducated,30000
+46,Uneducated,50000
+36,College,30000
+49,Uneducated,30000
+38,College,30000
+40,Uneducated,30000
+44,Post-Graduate,30000
+53,High School,30000
+54,Graduate,100000
+51,High School,100000
+45,High School,30000
+52,High School,30000
+48,High School,100000
+40,High School,30000
+55,Doctorate,30000
+40,College,100000
+33,High School,30000
+53,Graduate,30000
+46,High School,100000
+40,High School,50000
+47,Graduate,30000
+38,Graduate,30000
+42,Graduate,30000
+38,Graduate,30000
+47,Post-Graduate,30000
+45,High School,100000
+44,Graduate,50000
+47,Graduate,100000
+42,College,50000
+42,Graduate,50000
+44,High School,70000
+46,Graduate,30000
+39,High School,70000
+57,Doctorate,50000
+50,Graduate,30000
+54,Uneducated,50000
+50,Uneducated,30000
+38,High School,50000
+55,Uneducated,30000
+38,Graduate,100000
+38,Graduate,50000
+55,Graduate,100000
+50,High School,100000
+48,Uneducated,30000
+33,Graduate,30000
+44,Graduate,130000
+52,Uneducated,130000
+41,Graduate,70000
+50,High School,30000
+39,High School,130000
+42,College,30000
+33,Doctorate,30000
+44,College,30000
+42,Graduate,50000
+59,Post-Graduate,30000
+43,High School,30000
+59,College,130000
+46,Graduate,50000
+40,Graduate,30000
+63,Uneducated,30000
+49,Graduate,30000
+42,High School,70000
+42,High School,50000
+53,Uneducated,130000
+60,College,30000
+55,College,30000
+50,Post-Graduate,30000
+34,Post-Graduate,30000
+48,High School,30000
+46,High School,130000
+47,Uneducated,30000
+42,Graduate,50000
+45,Post-Graduate,70000
+44,Graduate,30000
+42,Uneducated,70000
+54,Graduate,30000
+38,High School,50000
+51,Graduate,100000
+41,High School,30000
+52,Graduate,30000
+55,High School,50000
+47,College,30000
+47,Graduate,30000
+35,Graduate,30000
+40,Doctorate,30000
+41,Graduate,50000
+52,High School,100000
+41,Graduate,30000
+38,Graduate,50000
+48,Graduate,30000
+53,Post-Graduate,100000
+45,Doctorate,30000
+57,College,30000
+54,High School,30000
+45,Graduate,30000
+38,Graduate,50000
+45,Doctorate,30000
+46,Graduate,50000
+41,College,100000
+31,College,30000
+33,Graduate,30000
+46,High School,30000
+46,Graduate,130000
+52,High School,30000
+45,College,50000
+39,College,100000
+41,College,30000
+49,Uneducated,30000
+60,Uneducated,70000
+37,High School,100000
+50,Graduate,100000
+46,Doctorate,30000
+59,College,50000
+49,Graduate,30000
+35,Graduate,30000
+52,Uneducated,30000
+27,High School,30000
+41,Uneducated,30000
+45,Post-Graduate,50000
+37,College,30000
+41,Graduate,30000
+47,Graduate,50000
+51,High School,30000
+53,High School,50000
+46,Graduate,30000
+43,Graduate,50000
+53,College,50000
+50,Graduate,30000
+46,College,30000
+50,College,30000
+48,Graduate,30000
+56,College,30000
+36,Post-Graduate,30000
+44,High School,30000
+54,High School,30000
+39,High School,30000
+53,Uneducated,130000
+56,Graduate,100000
+42,High School,30000
+43,Uneducated,100000
+44,Graduate,70000
+33,Graduate,50000
+53,Graduate,50000
+44,Graduate,70000
+54,Graduate,30000
+50,Post-Graduate,30000
+40,High School,130000
+41,Graduate,50000
+47,High School,70000
+44,College,50000
+34,College,50000
+39,High School,30000
+58,High School,100000
+42,Graduate,30000
+48,Uneducated,50000
+52,Graduate,30000
+42,Graduate,30000
+43,College,30000
+37,Post-Graduate,50000
+55,Graduate,30000
+53,College,30000
+55,Graduate,30000
+56,College,100000
+52,Uneducated,30000
+53,Graduate,30000
+56,High School,100000
+49,Uneducated,30000
+43,College,100000
+45,College,30000
+36,Uneducated,30000
+45,Graduate,100000
+54,Graduate,30000
+49,Doctorate,30000
+54,Graduate,50000
+43,Graduate,30000
+49,High School,130000
+53,High School,30000
+52,Uneducated,130000
+29,Graduate,30000
+50,Graduate,30000
+49,High School,50000
+51,Uneducated,70000
+47,High School,70000
+58,Graduate,30000
+42,College,50000
+48,High School,30000
+61,Graduate,30000
+56,Graduate,70000
+46,Graduate,30000
+42,College,50000
+48,Uneducated,30000
+34,Graduate,30000
+42,Graduate,30000
+54,High School,50000
+41,Graduate,30000
+51,Graduate,30000
+56,Graduate,130000
+57,College,30000
+58,Graduate,50000
+59,College,30000
+56,Uneducated,30000
+42,High School,30000
+56,Graduate,100000
+47,Graduate,30000
+42,Graduate,70000
+50,Uneducated,130000
+27,College,30000
+38,High School,50000
+52,Post-Graduate,50000
+59,High School,30000
+33,High School,50000
+48,Doctorate,30000
+53,Graduate,100000
+41,Graduate,30000
+50,Uneducated,30000
+34,Graduate,50000
+59,Graduate,50000
+57,High School,30000
+49,Uneducated,30000
+44,High School,30000
+47,Graduate,30000
+52,High School,30000
+49,Uneducated,50000
+54,High School,100000
+41,College,100000
+45,High School,30000
+42,Graduate,100000
+53,College,30000
+53,Uneducated,70000
+38,College,30000
+26,Graduate,30000
+46,Graduate,100000
+57,Graduate,50000
+43,Graduate,30000
+48,High School,30000
+52,High School,30000
+48,High School,30000
+41,Doctorate,50000
+54,Graduate,50000
+46,College,50000
+36,Graduate,30000
+51,High School,30000
+44,Graduate,30000
+38,College,30000
+50,High School,30000
+46,Doctorate,30000
+52,Uneducated,30000
+40,High School,30000
+38,High School,30000
+44,Doctorate,30000
+46,College,50000
+50,Graduate,30000
+38,High School,70000
+44,High School,50000
+51,College,50000
+40,College,50000
+31,High School,30000
+48,Doctorate,70000
+47,High School,50000
+48,College,100000
+51,High School,30000
+41,Doctorate,130000
+43,Graduate,70000
+48,Uneducated,30000
+49,College,50000
+47,High School,100000
+43,High School,100000
+55,Graduate,130000
+49,Graduate,130000
+43,High School,70000
+48,College,30000
+57,High School,30000
+50,Uneducated,70000
+44,Graduate,30000
+43,Graduate,30000
+58,College,30000
+53,High School,30000
+48,Graduate,30000
+59,Graduate,30000
+42,Graduate,30000
+45,Graduate,30000
+39,Graduate,30000
+45,Doctorate,50000
+48,Uneducated,50000
+45,College,70000
+56,Post-Graduate,50000
+50,Graduate,30000
+53,Graduate,30000
+51,High School,70000
+44,High School,30000
+56,High School,30000
+46,Graduate,30000
+54,High School,30000
+50,High School,30000
+52,Graduate,100000
+56,College,30000
+42,Uneducated,50000
+43,Uneducated,70000
+59,College,30000
+39,High School,30000
+53,Graduate,30000
+35,Graduate,30000
+36,Graduate,30000
+50,High School,30000
+54,High School,30000
+43,Graduate,30000
+46,High School,30000
+40,Graduate,50000
+43,Graduate,30000
+49,Graduate,30000
+49,High School,30000
+47,Uneducated,30000
+42,High School,30000
+54,High School,30000
+36,Uneducated,30000
+56,Graduate,50000
+52,Graduate,30000
+59,Graduate,130000
+44,High School,50000
+57,Graduate,30000
+48,High School,30000
+47,High School,70000
+52,College,70000
+46,High School,50000
+34,Post-Graduate,30000
+45,Doctorate,30000
+49,Doctorate,50000
+43,Graduate,50000
+41,College,30000
+53,High School,50000
+42,Graduate,30000
+43,High School,30000
+45,College,50000
+44,Uneducated,30000
+44,High School,30000
+51,Graduate,30000
+38,High School,30000
+43,High School,100000
+48,Graduate,70000
+53,Graduate,130000
+42,College,70000
+50,Uneducated,130000
+46,High School,30000
+33,Uneducated,30000
+37,Doctorate,130000
+43,High School,70000
+56,Graduate,30000
+42,Uneducated,70000
+44,Uneducated,30000
+43,Graduate,50000
+38,High School,30000
+49,Graduate,30000
+62,College,30000
+45,Doctorate,100000
+40,College,70000
+51,Doctorate,70000
+41,High School,70000
+49,Post-Graduate,30000
+61,High School,70000
+33,College,30000
+35,Doctorate,30000
+41,High School,30000
+49,High School,70000
+52,Graduate,30000
+45,College,30000
+42,Graduate,30000
+41,Graduate,130000
+54,High School,30000
+60,Graduate,30000
+37,College,50000
+44,Graduate,70000
+52,Graduate,70000
+43,High School,70000
+40,High School,30000
+39,Doctorate,30000
+44,High School,30000
+41,High School,30000
+50,Graduate,70000
+54,College,30000
+51,Graduate,50000
+48,College,130000
+50,Graduate,130000
+40,College,50000
+47,Post-Graduate,50000
+53,High School,30000
+45,Uneducated,130000
+44,Uneducated,70000
+45,High School,50000
+50,Graduate,30000
+54,Graduate,30000
+52,Graduate,30000
+49,Graduate,30000
+47,Uneducated,50000
+52,High School,30000
+46,High School,30000
+55,Uneducated,30000
+44,Graduate,50000
+43,Uneducated,30000
+42,Uneducated,70000
+50,Uneducated,30000
+38,High School,50000
+51,College,50000
+44,Graduate,30000
+46,Uneducated,70000
+38,College,30000
+46,Graduate,70000
+54,College,50000
+30,Graduate,30000
+49,Uneducated,30000
+54,Uneducated,50000
+51,Graduate,130000
+37,College,30000
+44,High School,30000
+45,High School,70000
+55,Graduate,50000
+55,High School,50000
+50,Graduate,130000
+45,Doctorate,70000
+44,Uneducated,70000
+47,Graduate,30000
+38,High School,50000
+49,Graduate,50000
+39,Graduate,50000
+50,High School,50000
+50,High School,50000
+54,Graduate,30000
+46,College,30000
+49,High School,100000
+45,Uneducated,50000
+41,High School,30000
+45,Graduate,30000
+44,Graduate,30000
+58,Graduate,30000
+42,College,70000
+51,High School,30000
+37,Uneducated,50000
+42,Graduate,50000
+42,Post-Graduate,100000
+48,High School,30000
+44,Graduate,30000
+44,College,50000
+45,Uneducated,30000
+57,Graduate,100000
+50,Graduate,30000
+46,Graduate,30000
+51,College,30000
+34,High School,50000
+57,Graduate,30000
+47,Graduate,30000
+48,Graduate,30000
+41,Graduate,30000
+49,College,30000
+41,Graduate,70000
+42,Graduate,50000
+57,High School,30000
+58,Doctorate,30000
+46,College,30000
+54,High School,30000
+42,High School,50000
+43,Graduate,30000
+35,High School,30000
+42,College,30000
+53,Graduate,130000
+52,Graduate,70000
+48,Uneducated,50000
+31,Uneducated,30000
+50,Post-Graduate,70000
+46,Graduate,130000
+49,Graduate,30000
+50,Graduate,30000
+45,Graduate,30000
+45,High School,30000
+45,High School,30000
+59,Graduate,50000
+48,Graduate,30000
+57,Graduate,50000
+42,Uneducated,30000
+55,High School,50000
+43,Uneducated,30000
+37,Graduate,30000
+34,Graduate,30000
+50,Graduate,30000
+36,Doctorate,30000
+44,Graduate,30000
+47,Graduate,100000
+56,High School,30000
+45,Graduate,30000
+38,Uneducated,30000
+45,College,70000
+34,High School,100000
+54,High School,50000
+53,College,30000
+54,College,130000
+47,Graduate,70000
+43,Graduate,50000
+41,College,50000
+50,Uneducated,30000
+42,Uneducated,30000
+46,Uneducated,70000
+39,Doctorate,70000
+40,Uneducated,30000
+43,Doctorate,50000
+49,Graduate,50000
+44,College,100000
+54,Uneducated,30000
+47,Uneducated,50000
+33,Graduate,50000
+38,High School,100000
+45,College,30000
+61,Uneducated,50000
+58,Graduate,50000
+41,Graduate,30000
+42,Uneducated,50000
+45,Uneducated,30000
+45,Post-Graduate,30000
+51,High School,30000
+40,High School,30000
+57,College,30000
+45,Graduate,30000
+42,College,50000
+49,Graduate,30000
+48,Graduate,30000
+44,Post-Graduate,30000
+63,Graduate,70000
+41,Graduate,30000
+45,Uneducated,30000
+54,Doctorate,30000
+48,Graduate,30000
+40,Uneducated,30000
+47,Graduate,50000
+39,Uneducated,30000
+53,High School,30000
+53,Uneducated,50000
+29,Uneducated,30000
+44,High School,30000
+46,High School,50000
+40,Graduate,30000
+40,Uneducated,30000
+42,Uneducated,50000
+38,Uneducated,30000
+49,High School,100000
+52,Uneducated,50000
+38,College,30000
+44,Uneducated,30000
+56,High School,30000
+47,High School,30000
+50,High School,30000
+44,Graduate,30000
+39,Graduate,70000
+53,College,50000
+42,High School,70000
+48,Graduate,50000
+47,Post-Graduate,100000
+51,Graduate,100000
+56,Graduate,50000
+33,College,50000
+36,Graduate,50000
+39,Graduate,30000
+59,Uneducated,70000
+41,High School,30000
+29,College,30000
+39,High School,50000
+49,High School,70000
+43,Graduate,30000
+60,High School,100000
+48,Graduate,100000
+50,Post-Graduate,70000
+47,Uneducated,70000
+56,Post-Graduate,50000
+43,Graduate,100000
+51,College,30000
+42,High School,100000
+49,Graduate,30000
+47,Uneducated,30000
+44,Post-Graduate,100000
+44,High School,130000
+53,Graduate,130000
+41,Graduate,50000
+49,High School,70000
+42,College,30000
+50,High School,100000
+51,Post-Graduate,50000
+52,Uneducated,30000
+48,Graduate,70000
+44,Uneducated,100000
+40,High School,50000
+42,Graduate,100000
+42,Graduate,30000
+42,High School,30000
+61,High School,30000
+59,Uneducated,50000
+46,Uneducated,30000
+51,Post-Graduate,100000
+48,Post-Graduate,30000
+44,High School,50000
+42,Post-Graduate,30000
+40,College,70000
+61,College,30000
+45,Uneducated,100000
+49,Graduate,100000
+47,Uneducated,70000
+45,High School,30000
+43,College,70000
+42,Graduate,70000
+42,High School,100000
+40,High School,70000
+53,Graduate,50000
+49,Graduate,50000
+44,Uneducated,100000
+43,High School,30000
+40,Uneducated,30000
+57,Post-Graduate,30000
+51,Doctorate,130000
+49,Doctorate,100000
+61,Graduate,30000
+62,Graduate,70000
+52,Graduate,70000
+50,High School,30000
+53,College,30000
+42,High School,70000
+43,Graduate,30000
+57,Post-Graduate,70000
+50,Uneducated,30000
+48,High School,130000
+41,Graduate,130000
+44,High School,70000
+44,College,50000
+43,College,30000
+51,Graduate,100000
+47,Post-Graduate,100000
+47,Doctorate,50000
+38,High School,130000
+46,High School,50000
+41,Uneducated,50000
+47,Graduate,100000
+41,Graduate,100000
+49,Uneducated,50000
+44,Graduate,100000
+48,Post-Graduate,30000
+44,Graduate,70000
+59,High School,30000
+42,Uneducated,100000
+52,Graduate,70000
+46,Graduate,50000
+41,College,50000
+39,Doctorate,30000
+46,Graduate,30000
+45,Graduate,30000
+53,High School,70000
+44,Graduate,30000
+46,Uneducated,70000
+38,Graduate,30000
+46,Graduate,30000
+47,College,70000
+46,Doctorate,70000
+45,Graduate,50000
+50,High School,50000
+43,High School,30000
+48,College,50000
+50,Graduate,30000
+40,Graduate,50000
+46,College,50000
+45,College,70000
+53,High School,30000
+49,Graduate,30000
+52,Post-Graduate,30000
+47,Graduate,100000
+47,Uneducated,100000
+43,High School,70000
+49,College,100000
+40,College,50000
+53,Graduate,30000
+46,High School,50000
+41,High School,100000
+50,High School,130000
+51,Uneducated,100000
+44,High School,130000
+49,Uneducated,70000
+53,Graduate,50000
+47,Doctorate,50000
+50,Uneducated,100000
+44,Graduate,130000
+48,Graduate,70000
+47,College,70000
+43,Uneducated,70000
+40,High School,100000
+41,Graduate,100000
+46,High School,30000
+44,Graduate,70000
+52,Graduate,30000
+39,Uneducated,100000
+53,High School,30000
+52,Post-Graduate,30000
+46,High School,50000
+44,Graduate,50000
+52,High School,50000
+52,Graduate,100000
+50,Graduate,30000
+55,High School,100000
+44,Doctorate,100000
+46,Graduate,30000
+49,Uneducated,130000
+54,Graduate,50000
+39,Post-Graduate,100000
+46,Uneducated,30000
+43,College,30000
+53,High School,130000
+44,Graduate,70000
+48,High School,50000
+41,Uneducated,100000
+45,Post-Graduate,30000
+51,College,100000
+44,Post-Graduate,100000
+39,Uneducated,70000
+40,Doctorate,30000
+41,Graduate,130000
+50,High School,130000
+50,Uneducated,30000
+49,Graduate,100000
+49,Graduate,130000
+41,Graduate,100000
+36,Uneducated,50000
+52,High School,50000
+42,Graduate,70000
+49,College,30000
+41,Graduate,70000
+53,Graduate,50000
+49,Uneducated,100000
+51,High School,30000
+51,Uneducated,70000
+51,High School,30000
+54,College,30000
+46,Doctorate,130000
+43,Post-Graduate,50000
+41,High School,130000
+49,Uneducated,100000
+47,Uneducated,50000
+53,High School,30000
+51,Graduate,130000
+60,High School,30000
+42,Graduate,30000
+46,Graduate,30000
+41,College,30000
+47,Uneducated,100000
+43,Post-Graduate,50000
+47,Graduate,30000
+51,Graduate,50000
+44,Graduate,100000
+53,Graduate,30000
+45,Uneducated,100000
+40,High School,50000
+44,High School,30000
+50,Graduate,100000
+49,Post-Graduate,70000
+49,Graduate,30000
+39,Uneducated,30000
+43,High School,130000
+43,High School,30000
+45,College,30000
+52,Uneducated,130000
+33,Doctorate,30000
+42,College,50000
+49,Graduate,100000
+55,Uneducated,50000
+39,Graduate,30000
+40,College,50000
+46,College,100000
+58,College,130000
+44,Graduate,30000
+46,Graduate,100000
+37,High School,100000
+57,Graduate,30000
+52,Graduate,50000
+62,Post-Graduate,50000
+45,High School,70000
+57,High School,100000
+44,Graduate,30000
+47,Graduate,30000
+51,Post-Graduate,130000
+45,High School,30000
+46,Graduate,30000
+43,High School,30000
+52,Uneducated,50000
+46,High School,30000
+41,Graduate,70000
+52,High School,130000
+52,High School,30000
+51,Post-Graduate,100000
+49,Graduate,70000
+55,College,130000
+46,Graduate,50000
+43,Post-Graduate,50000
+49,High School,100000
+41,Uneducated,130000
+37,High School,100000
+51,Uneducated,130000
+50,Doctorate,130000
+57,Uneducated,70000
+40,Uneducated,130000
+52,College,130000
+45,High School,50000
+48,College,30000
+39,High School,30000
+49,College,30000
+43,Graduate,30000
+45,Graduate,70000
+38,High School,130000
+54,College,100000
+39,Graduate,50000
+49,Graduate,30000
+45,Graduate,130000
+54,High School,100000
+40,Doctorate,30000
+49,College,70000
+48,Post-Graduate,100000
+42,Graduate,130000
+49,High School,130000
+43,Uneducated,130000
+45,High School,100000
+38,Graduate,30000
+44,Uneducated,130000
+45,Graduate,130000
+41,Graduate,100000
+56,Uneducated,30000
+49,Uneducated,30000
+50,Graduate,130000
+42,Graduate,130000
+45,Doctorate,50000
+41,Post-Graduate,100000
+44,College,30000
+48,Graduate,100000
+40,Uneducated,70000
+49,High School,100000
+43,Graduate,100000
+51,Uneducated,100000
+59,Graduate,70000
+49,Graduate,70000
+38,College,130000
+52,Graduate,100000
+49,Graduate,130000
+47,Graduate,50000
+46,Uneducated,100000
+52,College,100000
+57,Graduate,30000
+44,Graduate,70000
+41,Graduate,30000
+42,Post-Graduate,70000
+47,Uneducated,130000
+45,Graduate,70000
+50,High School,100000
+41,High School,70000
+55,High School,130000
+45,College,50000
+40,Post-Graduate,50000
+43,College,100000
+49,Graduate,30000
+47,College,30000
+43,High School,50000
+44,Uneducated,30000
+44,High School,50000
+52,Graduate,100000
+42,Post-Graduate,70000
+40,Graduate,30000
+62,Graduate,70000
+52,Graduate,30000
+50,Doctorate,30000
+51,Graduate,30000
+54,Graduate,30000
+50,Post-Graduate,100000
+46,College,130000
+45,Uneducated,70000
+50,Graduate,100000
+48,College,100000
+50,High School,30000
+46,College,70000
+46,High School,50000
+40,Post-Graduate,130000
+43,Graduate,100000
+48,Graduate,70000
+38,Uneducated,100000
+46,High School,130000
+44,Uneducated,50000
+39,College,50000
+50,College,70000
+41,Graduate,30000
+49,Graduate,30000
+42,Graduate,100000
+46,Uneducated,70000
+44,Graduate,100000
+53,Graduate,100000
+51,College,100000
+38,College,30000
+50,Graduate,70000
+47,Graduate,30000
+38,Uneducated,100000
+45,High School,70000
+52,High School,100000
+44,Graduate,70000
+40,Graduate,100000
+57,Graduate,130000
+45,Uneducated,50000
+44,Graduate,30000
+47,Graduate,130000
+51,Graduate,130000
+48,High School,30000
+40,Uneducated,30000
+50,Graduate,100000
+38,College,30000
+43,College,50000
+45,Graduate,30000
+49,Uneducated,130000
+44,High School,100000
+53,Graduate,50000
+46,Post-Graduate,50000
+56,Graduate,100000
+63,Uneducated,70000
+40,Graduate,50000
+45,Graduate,100000
+52,Doctorate,130000
+50,Uneducated,50000
+62,High School,70000
+45,Graduate,30000
+53,Uneducated,100000
+38,High School,50000
+44,Doctorate,50000
+42,Uneducated,50000
+44,High School,70000
+55,College,30000
+52,Uneducated,30000
+48,Graduate,70000
+48,Graduate,100000
+47,Graduate,50000
+49,Graduate,130000
+47,College,50000
+47,Uneducated,100000
+56,Graduate,130000
+61,Uneducated,50000
+45,Doctorate,130000
+49,Graduate,30000
+44,Uneducated,30000
+50,Post-Graduate,100000
+51,High School,130000
+44,Uneducated,30000
+51,Graduate,70000
+52,Graduate,50000
+39,High School,100000
+38,High School,70000
+51,Graduate,100000
+41,High School,100000
+43,Post-Graduate,70000
+40,High School,70000
+58,Uneducated,100000
+44,Post-Graduate,70000
+48,Graduate,70000
+44,College,50000
+45,Graduate,30000
+37,Graduate,50000
+43,High School,70000
+61,Post-Graduate,70000
+51,Uneducated,100000
+48,Uneducated,50000
+46,Uneducated,70000
+55,Graduate,30000
+44,High School,70000
+48,Uneducated,50000
+46,College,50000
+45,Uneducated,50000
+43,Graduate,30000
+40,High School,50000
+49,High School,130000
+47,College,70000
+42,Graduate,100000
+47,College,100000
+63,High School,70000
+49,Uneducated,100000
+43,Graduate,50000
+55,Graduate,130000
+46,High School,30000
+43,Graduate,50000
+51,High School,100000
+31,Uneducated,30000
+43,Graduate,100000
+59,Graduate,70000
+53,College,130000
+39,Uneducated,100000
+60,High School,50000
+51,High School,100000
+45,Graduate,70000
+41,Graduate,70000
+56,High School,130000
+49,Graduate,50000
+45,Graduate,50000
+45,High School,50000
+45,High School,50000
+40,Graduate,30000
+52,Graduate,30000
+51,Graduate,50000
+44,Graduate,100000
+30,High School,70000
+62,Graduate,30000
+47,Post-Graduate,30000
+52,High School,50000
+43,Uneducated,30000
+49,Graduate,100000
+47,Graduate,50000
+41,High School,50000
+44,Graduate,30000
+39,College,70000
+43,Graduate,70000
+32,High School,70000
+56,College,30000
+60,Graduate,30000
+41,High School,50000
+43,Graduate,30000
+32,Graduate,50000
+47,High School,30000
+46,Graduate,100000
+41,Graduate,130000
+51,Uneducated,30000
+58,Uneducated,100000
+53,Uneducated,30000
+52,Graduate,100000
+45,High School,30000
+41,Uneducated,130000
+37,Graduate,30000
+44,High School,70000
+36,Graduate,30000
+47,Graduate,30000
+49,Uneducated,70000
+58,Doctorate,130000
+45,Uneducated,50000
+45,High School,100000
+44,Uneducated,100000
+54,Post-Graduate,50000
+38,High School,50000
+46,Doctorate,70000
+48,Doctorate,50000
+53,High School,70000
+39,Graduate,50000
+48,Graduate,30000
+41,Graduate,50000
+49,High School,50000
+61,Graduate,70000
+52,Uneducated,130000
+37,Graduate,70000
+52,Graduate,50000
+51,Uneducated,30000
+43,Uneducated,100000
+54,High School,30000
+31,Uneducated,30000
+40,High School,30000
+49,Uneducated,30000
+60,Uneducated,50000
+62,Uneducated,30000
+44,Graduate,100000
+43,Graduate,30000
+56,High School,100000
+35,High School,100000
+40,Graduate,50000
+52,High School,70000
+29,High School,50000
+52,High School,70000
+37,Graduate,70000
+32,Uneducated,70000
+47,College,100000
+45,Graduate,130000
+46,Graduate,70000
+34,Graduate,30000
+39,High School,30000
+46,College,130000
+50,High School,100000
+45,Uneducated,30000
+56,Uneducated,100000
+50,Uneducated,130000
+53,Graduate,30000
+60,College,100000
+41,Graduate,100000
+42,Graduate,30000
+31,Graduate,30000
+51,Graduate,100000
+45,Uneducated,100000
+55,Uneducated,70000
+51,Doctorate,100000
+28,Uneducated,30000
+44,Graduate,30000
+51,Graduate,50000
+48,College,30000
+44,Graduate,70000
+40,Graduate,30000
+47,Graduate,70000
+61,College,100000
+46,Graduate,100000
+49,Graduate,70000
+56,Uneducated,130000
+41,Post-Graduate,50000
+41,Doctorate,50000
+46,Uneducated,100000
+56,High School,50000
+51,College,130000
+36,Uneducated,30000
+49,Post-Graduate,130000
+45,Graduate,50000
+30,College,30000
+49,Graduate,30000
+31,Post-Graduate,30000
+35,High School,50000
+49,Graduate,50000
+40,Graduate,70000
+37,Uneducated,30000
+61,High School,30000
+45,Graduate,50000
+47,Uneducated,30000
+44,Uneducated,100000
+45,Graduate,50000
+31,High School,70000
+32,High School,50000
+42,Graduate,100000
+52,Graduate,30000
+39,Post-Graduate,70000
+51,College,130000
+52,High School,100000
+40,Graduate,50000
+38,Uneducated,30000
+41,College,70000
+27,College,100000
+50,Graduate,50000
+58,Uneducated,100000
+53,Post-Graduate,70000
+40,High School,100000
+58,High School,100000
+41,Graduate,30000
+59,Graduate,70000
+53,Graduate,100000
+44,Uneducated,130000
+47,Uneducated,50000
+47,College,30000
+46,Graduate,130000
+53,Graduate,30000
+42,Graduate,70000
+33,Graduate,70000
+61,Graduate,50000
+47,Post-Graduate,70000
+46,Graduate,100000
+54,Post-Graduate,70000
+60,High School,30000
+32,Graduate,130000
+45,College,70000
+45,Uneducated,70000
+30,College,70000
+44,High School,130000
+40,Graduate,30000
+31,Graduate,100000
+40,Uneducated,30000
+29,Post-Graduate,70000
+38,High School,130000
+53,Graduate,30000
+56,Doctorate,100000
+27,Graduate,30000
+38,Graduate,30000
+48,High School,30000
+44,High School,30000
+49,Uneducated,70000
+36,College,50000
+30,College,70000
+42,High School,100000
+45,Graduate,30000
+56,College,70000
+31,Graduate,100000
+48,Graduate,50000
+32,Graduate,100000
+46,High School,30000
+52,High School,30000
+30,Graduate,30000
+48,High School,100000
+55,Graduate,30000
+43,High School,50000
+48,Graduate,130000
+50,High School,30000
+53,Uneducated,70000
+48,Graduate,100000
+51,Uneducated,130000
+39,College,30000
+51,High School,70000
+43,Uneducated,100000
+54,Post-Graduate,100000
+47,Uneducated,70000
+51,Graduate,30000
+38,Post-Graduate,100000
+38,Uneducated,30000
+32,High School,50000
+41,Uneducated,100000
+50,Graduate,130000
+38,Doctorate,30000
+59,High School,50000
+53,High School,130000
+40,College,30000
+45,High School,130000
+53,High School,50000
+56,High School,100000
+60,Graduate,50000
+42,Graduate,100000
+55,Uneducated,130000
+51,Graduate,130000
+46,Post-Graduate,100000
+45,Graduate,70000
+40,Graduate,100000
+56,High School,50000
+48,Uneducated,70000
+45,Graduate,30000
+42,High School,70000
+35,Post-Graduate,70000
+32,Post-Graduate,50000
+34,High School,70000
+33,Post-Graduate,100000
+40,College,50000
+43,Uneducated,70000
+29,Uneducated,50000
+42,Graduate,50000
+48,Graduate,100000
+51,Graduate,30000
+41,College,100000
+42,Uneducated,50000
+32,Graduate,70000
+43,Graduate,130000
+50,Graduate,70000
+44,Doctorate,100000
+36,High School,130000
+44,Uneducated,50000
+47,Post-Graduate,30000
+45,College,50000
+53,Uneducated,50000
+37,Doctorate,70000
+43,High School,100000
+59,Graduate,50000
+31,High School,50000
+41,High School,100000
+55,High School,70000
+41,College,100000
+55,High School,100000
+48,Graduate,100000
+42,Graduate,70000
+34,Graduate,30000
+54,Uneducated,70000
+38,Graduate,70000
+56,High School,30000
+44,Post-Graduate,50000
+39,Graduate,70000
+42,Post-Graduate,50000
+60,Uneducated,30000
+35,College,100000
+42,Graduate,100000
+30,Graduate,30000
+37,Uneducated,100000
+37,Graduate,30000
+43,Graduate,100000
+34,High School,100000
+31,Graduate,100000
+47,Doctorate,30000
+43,Post-Graduate,50000
+41,Graduate,30000
+48,Graduate,30000
+41,High School,30000
+40,Uneducated,100000
+32,Uneducated,50000
+50,Graduate,100000
+37,Doctorate,30000
+31,High School,70000
+52,College,100000
+60,Uneducated,30000
+48,Uneducated,70000
+44,Graduate,50000
+44,Graduate,50000
+31,Graduate,30000
+56,Uneducated,70000
+46,Uneducated,130000
+29,Uneducated,50000
+37,Post-Graduate,30000
+32,Graduate,50000
+52,High School,100000
+58,Graduate,30000
+41,Graduate,100000
+50,Graduate,30000
+29,Graduate,100000
+32,High School,30000
+52,College,30000
+48,Graduate,30000
+33,Graduate,30000
+46,High School,50000
+32,Uneducated,100000
+50,Graduate,30000
+28,Post-Graduate,30000
+44,Graduate,50000
+43,High School,70000
+50,Graduate,50000
+51,Doctorate,30000
+39,College,30000
+42,Graduate,50000
+44,Graduate,70000
+44,High School,30000
+46,Uneducated,100000
+39,High School,100000
+45,Post-Graduate,50000
+41,Graduate,30000
+42,High School,30000
+38,College,30000
+36,High School,100000
+43,High School,50000
+51,High School,30000
+52,Graduate,70000
+49,Graduate,100000
+55,Graduate,70000
+48,Graduate,100000
+45,Graduate,100000
+54,Graduate,100000
+39,Graduate,70000
+47,Uneducated,50000
+40,Uneducated,100000
+60,Graduate,30000
+45,Graduate,100000
+49,Uneducated,100000
+48,Post-Graduate,30000
+44,Graduate,70000
+29,Uneducated,30000
+42,Uneducated,100000
+45,Graduate,30000
+45,High School,30000
+46,College,100000
+32,Uneducated,100000
+38,High School,100000
+42,College,100000
+53,College,100000
+52,High School,70000
+57,Post-Graduate,100000
+46,Uneducated,70000
+60,Graduate,30000
+40,Graduate,70000
+49,Uneducated,130000
+55,College,100000
+55,Uneducated,30000
+54,Graduate,100000
+58,Graduate,70000
+53,High School,130000
+59,Uneducated,50000
+32,High School,50000
+48,Graduate,50000
+54,Graduate,130000
+42,Graduate,100000
+42,Uneducated,130000
+29,Post-Graduate,30000
+43,Graduate,100000
+45,Graduate,70000
+46,High School,100000
+52,College,50000
+52,Graduate,50000
+52,High School,30000
+60,High School,30000
+57,Post-Graduate,100000
+52,High School,30000
+34,Post-Graduate,50000
+40,Uneducated,100000
+45,High School,70000
+59,High School,100000
+30,College,70000
+38,High School,30000
+42,Doctorate,70000
+50,Uneducated,70000
+49,College,70000
+58,High School,70000
+54,Uneducated,30000
+39,Graduate,30000
+48,Uneducated,50000
+36,Graduate,30000
+56,Graduate,30000
+47,High School,50000
+27,Graduate,50000
+42,Uneducated,130000
+53,High School,100000
+57,High School,30000
+50,Post-Graduate,30000
+50,Graduate,100000
+61,Graduate,100000
+30,Uneducated,30000
+60,Uneducated,50000
+43,Post-Graduate,70000
+41,Uneducated,30000
+42,Graduate,70000
+36,High School,130000
+59,College,100000
+59,High School,30000
+55,Graduate,50000
+56,High School,30000
+34,Graduate,50000
+49,Uneducated,100000
+60,Uneducated,30000
+51,Uneducated,30000
+39,College,30000
+54,Graduate,50000
+53,Graduate,130000
+35,Post-Graduate,100000
+47,Uneducated,70000
+57,Doctorate,30000
+54,High School,30000
+39,High School,100000
+50,High School,130000
+60,High School,30000
+41,Uneducated,50000
+50,Graduate,100000
+56,Graduate,70000
+41,College,70000
+44,Post-Graduate,30000
+36,Graduate,70000
+31,Graduate,30000
+49,Graduate,30000
+40,College,30000
+29,High School,70000
+46,College,70000
+50,College,70000
+60,High School,30000
+55,Doctorate,30000
+57,Post-Graduate,100000
+47,High School,70000
+45,Graduate,30000
+55,College,30000
+39,College,100000
+35,Doctorate,30000
+49,Post-Graduate,130000
+32,Graduate,50000
+46,Graduate,50000
+51,Uneducated,70000
+43,Graduate,70000
+38,Uneducated,50000
+44,College,70000
+56,Graduate,130000
+32,College,70000
+41,High School,30000
+45,Uneducated,30000
+50,Graduate,30000
+31,Graduate,70000
+47,Graduate,100000
+42,Graduate,70000
+48,Graduate,30000
+45,Uneducated,100000
+48,Uneducated,30000
+58,Graduate,30000
+45,Doctorate,70000
+41,High School,30000
+43,Post-Graduate,70000
+49,Post-Graduate,100000
+39,Uneducated,130000
+38,Graduate,30000
+43,Uneducated,50000
+55,College,50000
+39,Uneducated,30000
+38,High School,50000
+37,Graduate,30000
+34,Uneducated,70000
+50,College,100000
+41,Doctorate,100000
+49,Post-Graduate,30000
+37,Uneducated,130000
+46,Graduate,130000
+53,Graduate,100000
+31,Graduate,100000
+40,Uneducated,30000
+37,Uneducated,30000
+61,Graduate,70000
+45,Uneducated,100000
+32,High School,30000
+31,Graduate,50000
+43,Graduate,30000
+57,Uneducated,100000
+42,Graduate,30000
+43,Graduate,100000
+39,Graduate,30000
+46,Graduate,50000
+32,High School,30000
+32,Post-Graduate,70000
+49,Graduate,100000
+54,Graduate,130000
+38,Uneducated,100000
+60,High School,100000
+47,Graduate,50000
+31,Post-Graduate,30000
+49,Uneducated,30000
+49,Graduate,30000
+39,Graduate,100000
+44,High School,130000
+32,High School,100000
+57,High School,70000
+48,Graduate,30000
+49,College,100000
+54,High School,100000
+29,Graduate,130000
+41,High School,30000
+46,High School,130000
+47,High School,30000
+43,Uneducated,130000
+52,Uneducated,100000
+52,Graduate,100000
+43,Doctorate,30000
+57,Uneducated,30000
+52,Graduate,30000
+55,Uneducated,30000
+57,Doctorate,50000
+54,Graduate,100000
+51,High School,30000
+59,Uneducated,50000
+43,Uneducated,130000
+45,College,50000
+31,Post-Graduate,30000
+51,High School,100000
+53,High School,130000
+48,College,70000
+42,Graduate,50000
+46,High School,70000
+51,Graduate,130000
+48,High School,30000
+52,Post-Graduate,100000
+56,Doctorate,30000
+38,Uneducated,130000
+41,Graduate,100000
+45,Graduate,130000
+43,Uneducated,30000
+47,College,50000
+34,Graduate,100000
+35,Graduate,100000
+32,Graduate,30000
+41,Post-Graduate,50000
+50,Post-Graduate,130000
+39,Graduate,50000
+33,College,100000
+37,Graduate,100000
+49,Graduate,30000
+39,High School,100000
+45,High School,30000
+29,High School,50000
+54,Post-Graduate,30000
+53,Graduate,100000
+39,Post-Graduate,50000
+43,College,30000
+27,Uneducated,30000
+43,Graduate,70000
+37,Graduate,70000
+48,Doctorate,30000
+43,College,50000
+41,High School,30000
+49,Graduate,100000
+52,High School,30000
+38,High School,70000
+50,Graduate,130000
+31,High School,30000
+35,Uneducated,30000
+48,Uneducated,50000
+51,College,130000
+52,Doctorate,130000
+52,High School,70000
+30,Graduate,50000
+36,High School,130000
+29,High School,70000
+58,Graduate,130000
+55,Graduate,100000
+61,Uneducated,70000
+51,Post-Graduate,50000
+53,High School,50000
+44,Uneducated,70000
+47,Post-Graduate,70000
+53,Graduate,130000
+45,Graduate,50000
+29,Graduate,30000
+37,Graduate,30000
+45,High School,100000
+34,Graduate,50000
+50,College,30000
+44,Doctorate,70000
+42,Graduate,50000
+44,College,100000
+42,Graduate,50000
+54,Uneducated,130000
+60,High School,70000
+47,Post-Graduate,30000
+42,High School,50000
+46,High School,70000
+49,High School,70000
+43,College,50000
+47,High School,70000
+45,College,100000
+34,Uneducated,50000
+43,Uneducated,100000
+50,High School,100000
+44,Uneducated,100000
+38,Graduate,30000
+51,High School,100000
+48,Post-Graduate,50000
+31,Graduate,30000
+49,College,50000
+44,High School,30000
+31,Graduate,30000
+59,Graduate,100000
+47,Post-Graduate,130000
+51,High School,50000
+53,College,30000
+51,Graduate,50000
+40,High School,100000
+57,Uneducated,30000
+50,Graduate,100000
+35,Graduate,70000
+42,High School,100000
+40,Uneducated,30000
+48,Graduate,70000
+27,Graduate,30000
+37,Graduate,100000
+50,Graduate,70000
+52,Post-Graduate,70000
+49,High School,100000
+29,Graduate,70000
+45,Uneducated,50000
+32,Graduate,50000
+30,Uneducated,70000
+57,Graduate,30000
+39,Graduate,30000
+49,Doctorate,130000
+38,High School,30000
+36,Graduate,70000
+31,College,50000
+52,Uneducated,100000
+35,Graduate,30000
+39,Post-Graduate,100000
+32,Graduate,30000
+52,College,130000
+55,High School,100000
+50,High School,100000
+44,Uneducated,50000
+32,High School,30000
+51,Graduate,100000
+54,Graduate,130000
+45,Uneducated,130000
+44,Uneducated,50000
+40,Uneducated,100000
+39,Graduate,100000
+48,Uneducated,50000
+43,Graduate,50000
+56,High School,130000
+32,Graduate,30000
+40,Uneducated,30000
+54,College,100000
+36,Uneducated,70000
+48,High School,70000
+57,Graduate,30000
+40,Graduate,130000
+59,Doctorate,100000
+46,High School,30000
+41,College,50000
+41,Post-Graduate,50000
+38,Uneducated,100000
+57,Graduate,130000
+41,Uneducated,30000
+45,Doctorate,30000
+37,Post-Graduate,50000
+61,Graduate,30000
+40,High School,70000
+46,Doctorate,30000
+50,High School,100000
+56,Graduate,70000
+38,College,70000
+46,High School,130000
+58,Graduate,100000
+43,Doctorate,100000
+53,Graduate,70000
+59,Graduate,30000
+40,Uneducated,30000
+49,High School,70000
+30,College,30000
+51,Graduate,100000
+33,College,50000
+59,High School,100000
+30,High School,30000
+43,Graduate,130000
+56,Uneducated,100000
+43,Graduate,70000
+32,Graduate,30000
+39,Graduate,30000
+38,High School,70000
+49,Uneducated,100000
+52,Doctorate,30000
+48,High School,100000
+49,High School,50000
+46,High School,50000
+40,Graduate,30000
+48,Doctorate,100000
+46,Graduate,70000
+50,High School,130000
+55,College,100000
+43,Graduate,30000
+42,Graduate,30000
+36,Graduate,30000
+42,Graduate,50000
+53,Graduate,30000
+56,Graduate,130000
+49,High School,30000
+39,High School,30000
+56,Graduate,70000
+41,Graduate,30000
+57,Uneducated,130000
+56,Graduate,130000
+48,Graduate,70000
+32,College,70000
+60,High School,50000
+38,Doctorate,30000
+45,Graduate,70000
+53,Graduate,50000
+48,College,100000
+55,Graduate,30000
+49,Uneducated,130000
+37,High School,70000
+31,Post-Graduate,50000
+46,Uneducated,50000
+33,Doctorate,30000
+30,Graduate,30000
+40,Uneducated,30000
+50,Uneducated,130000
+43,Graduate,100000
+59,Uneducated,30000
+49,Graduate,50000
+44,High School,30000
+29,College,50000
+58,Post-Graduate,100000
+43,High School,30000
+38,High School,70000
+53,Uneducated,100000
+49,Uneducated,50000
+44,Uneducated,30000
+31,Graduate,30000
+47,High School,100000
+44,Doctorate,100000
+51,Graduate,70000
+50,High School,70000
+57,Uneducated,30000
+43,Graduate,100000
+41,Graduate,50000
+40,High School,70000
+45,Graduate,70000
+42,High School,30000
+50,Graduate,50000
+46,Graduate,30000
+49,Uneducated,130000
+43,High School,100000
+45,Graduate,50000
+45,Graduate,70000
+52,High School,100000
+38,High School,70000
+56,College,100000
+31,High School,50000
+55,Graduate,130000
+51,Graduate,30000
+39,Graduate,70000
+42,Graduate,50000
+33,Uneducated,30000
+51,High School,100000
+51,Graduate,70000
+59,High School,30000
+58,Graduate,30000
+61,Graduate,70000
+47,Graduate,100000
+47,High School,30000
+56,Graduate,100000
+49,Graduate,70000
+33,College,130000
+27,High School,70000
+29,Graduate,30000
+38,Uneducated,50000
+46,College,100000
+57,Graduate,100000
+54,High School,70000
+56,Graduate,30000
+50,Graduate,50000
+44,High School,30000
+30,Graduate,50000
+43,Graduate,30000
